@@ -1,0 +1,6 @@
+2025-09-28 01:48:44,152 - INFO - Saved: FAO Statistical Yearbook 2023... (209829 words)
+2025-09-28 01:48:44,153 - INFO - Total words collected: 209,829
+2025-09-28 01:48:48,348 - ERROR - Error scraping extension PDF https://www.extension.iastate.edu/newsletters/nl2025/sep25.pdf: 'USDAExensionScraper' object has no attribute '_extract_pdf_text'
+2025-09-28 02:00:51,545 - INFO - Saved: FAO Statistical Yearbook 2023... (209829 words)
+2025-09-28 02:00:51,547 - INFO - Total words collected: 209,829
+2025-09-28 02:00:55,944 - ERROR - Error scraping extension PDF https://www.extension.iastate.edu/newsletters/nl2025/sep25.pdf: 'USDAExensionScraper' object has no attribute '_extract_pdf_text'

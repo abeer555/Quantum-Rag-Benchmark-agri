@@ -1,0 +1,14 @@
+
+Agricultural Data Collection Summary
+=====================================
+Total Documents Collected: 1
+Total Words Collected: 209,829
+Target Achievement: 10.5%
+
+Breakdown by Source:
+  FAO: 1 docs, 209,829 words
+  USDA: 0 docs, 0 words
+  AGRIS: 0 docs, 0 words
+
+Output Directory: agricultural_rag_corpus
+Collection Date: 2025-09-28 02:00:58

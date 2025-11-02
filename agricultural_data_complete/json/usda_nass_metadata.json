@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_nass",
+  "url": "https://www.nass.usda.gov/",
+  "scraped_at": "2025-11-03T01:09:02.007978",
+  "content_length": 8613,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_nass.txt"
+}

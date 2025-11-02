@@ -1,0 +1,9 @@
+{
+  "source_name": "csiro_agriculture",
+  "url": "https://www.csiro.au/en/research/animals-and-agriculture",
+  "scraped_at": "2025-11-03T01:11:08.188088",
+  "content_length": 2877,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/csiro_agriculture.txt"
+}

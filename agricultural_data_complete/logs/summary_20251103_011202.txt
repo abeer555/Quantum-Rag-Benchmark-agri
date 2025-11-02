@@ -1,0 +1,16 @@
+
+================================================================================
+AGRICULTURAL DATA SCRAPING SUMMARY
+================================================================================
+Total Sources Attempted: 38
+Successful: 38
+Failed: 0
+Success Rate: 100.0%
+Total Content: 357,459 characters (0.34 MB)
+Average per Source: 9,406 characters
+
+Output Directory: /home/abeer/Downloads/git/Quantum-Rag-Benchmark-agri/agricultural_data_complete
+  - TXT files: agricultural_data_complete/txt
+  - Metadata: agricultural_data_complete/json
+  - Logs: agricultural_data_complete/logs
+================================================================================

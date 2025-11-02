@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_livestock",
+  "url": "https://www.usda.gov/topics/livestock",
+  "scraped_at": "2025-11-03T01:08:26.488095",
+  "content_length": 18023,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_livestock.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "source_name": "ipcc_agriculture",
+  "url": "https://www.ipcc.ch/",
+  "scraped_at": "2025-11-03T01:11:34.801710",
+  "content_length": 23969,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/ipcc_agriculture.txt"
+}

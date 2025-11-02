@@ -1,0 +1,9 @@
+{
+  "source_name": "defra_farming",
+  "url": "https://www.gov.uk/government/policies/farming",
+  "scraped_at": "2025-11-03T01:10:35.630553",
+  "content_length": 3149,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/defra_farming.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "source_name": "fao_crops",
+  "url": "https://www.fao.org/crop-production/en/",
+  "scraped_at": "2025-11-03T01:07:03.806887",
+  "content_length": 3673,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/fao_crops.txt"
+}

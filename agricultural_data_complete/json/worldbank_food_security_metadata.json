@@ -1,0 +1,9 @@
+{
+  "source_name": "worldbank_food_security",
+  "url": "https://www.worldbank.org/en/topic/agriculture/brief/food-security-and-covid-19",
+  "scraped_at": "2025-11-03T01:09:16.388326",
+  "content_length": 3600,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/worldbank_food_security.txt"
+}

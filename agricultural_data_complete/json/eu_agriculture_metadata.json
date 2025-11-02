@@ -1,0 +1,9 @@
+{
+  "source_name": "eu_agriculture",
+  "url": "https://agriculture.ec.europa.eu/",
+  "scraped_at": "2025-11-03T01:10:43.092676",
+  "content_length": 5485,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/eu_agriculture.txt"
+}

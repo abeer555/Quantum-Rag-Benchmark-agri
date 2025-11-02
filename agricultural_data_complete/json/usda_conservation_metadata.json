@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_conservation",
+  "url": "https://www.usda.gov/topics/conservation",
+  "scraped_at": "2025-11-03T01:08:39.029875",
+  "content_length": 23034,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_conservation.txt"
+}

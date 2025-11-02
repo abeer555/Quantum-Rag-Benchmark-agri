@@ -1,0 +1,344 @@
+================================================================================
+SOURCE: agfunder
+URL: https://agfundernews.com/
+SCRAPED: 2025-11-03 01:11:59
+CONTENT LENGTH: 13431 characters
+================================================================================
+
+!Revisit consent button
+We value your privacy
+We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking Accept All, you consent to our use of cookies.
+Customise Reject All Accept All
+Customise Consent Preferences !Close
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorised as Necessary are stored on your browser as they are essential for enabling the basic functionalities of the site. ... Show more
+NecessaryAlways Active
+Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+ Cookie
+__cf_bm
+ Duration
+1 hour
+ Description
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. 
+
+ Cookie
+_GRECAPTCHA
+ Duration
+6 months
+ Description
+Google Recaptcha service sets this cookie to identify bots to protect the website against malicious spam attacks.
+
+ Cookie
+rc::a
+ Duration
+Never Expires
+ Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+
+ Cookie
+rc::f
+ Duration
+Never Expires
+ Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+
+ Cookie
+rc::c
+ Duration
+session
+ Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+
+ Cookie
+rc::b
+ Duration
+session
+ Description
+This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+
+ Cookie
+cookieyes-consent
+ Duration
+1 year
+ Description
+CookieYes sets this cookie to remember users consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.
+
+Functional
+Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
+ Cookie
+li_gc
+ Duration
+6 months
+ Description
+Linkedin set this cookie for storing visitors consent regarding using cookies for non-essential purposes.
+
+ Cookie
+lidc
+ Duration
+1 day
+ Description
+LinkedIn sets the lidc cookie to facilitate data center selection.
+
+ Cookie
+ytidb::LAST_RESULT_ENTRY_KEY
+ Duration
+Never Expires
+ Description
+The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.
+
+ Cookie
+yt-remote-device-id
+ Duration
+Never Expires
+ Description
+YouTube sets this cookie to store the users video preferences using embedded YouTube videos.
+
+ Cookie
+yt-remote-connected-devices
+ Duration
+Never Expires
+ Description
+YouTube sets this cookie to store the users video preferences using embedded YouTube videos.
+
+ Cookie
+yt-remote-session-app
+ Duration
+session
+ Description
+The yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player.
+
+ Cookie
+yt-remote-cast-installed
+ Duration
+session
+ Description
+The yt-remote-cast-installed cookie is used to store the users video player preferences using embedded YouTube video.
+
+ Cookie
+yt-remote-session-name
+ Duration
+session
+ Description
+The yt-remote-session-name cookie is used by YouTube to store the users video player preferences using embedded YouTube video.
+
+ Cookie
+yt-remote-fast-check-period
+ Duration
+session
+ Description
+The yt-remote-fast-check-period cookie is used by YouTube to store the users video player preferences for embedded YouTube videos.
+
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+ Cookie
+ajs_anonymous_id
+ Duration
+1 year
+ Description
+This cookie is set by Segment to count the number of people who visit a certain site by tracking if they have visited before.
+
+ Cookie
+_ga
+ Duration
+1 year 1 month 4 days
+ Description
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the sites analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+
+ Cookie
+_gid
+ Duration
+1 day
+ Description
+Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the websites performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously.
+
+Performance
+Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+No cookies to display.
+Advertisement
+Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.
+ Cookie
+bcookie
+ Duration
+1 year
+ Description
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.
+
+ Cookie
+ckid
+ Duration
+Never Expires
+ Description
+Adara yield sets this cookie to deliver advertisements tailored to user interests on other websites and track transactions 
+
+ Cookie
+YSC
+ Duration
+session
+ Description
+Youtube sets this cookie to track the views of embedded videos on Youtube pages.
+
+ Cookie
+VISITOR_INFO1_LIVE
+ Duration
+6 months
+ Description
+YouTube sets this cookie to measure bandwidth, determining whether the user gets the new or old player interface.
+
+ Cookie
+VISITOR_PRIVACY_METADATA
+ Duration
+6 months
+ Description
+YouTube sets this cookie to store the users cookie consent state for the current domain. 
+
+Uncategorised
+Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.
+ Cookie
+__tld__
+ Duration
+session
+ Description
+Description is currently not available.
+
+ Cookie
+__Secure-ROLLOUT_TOKEN
+ Duration
+6 months
+ Description
+Description is currently not available.
+
+Reject All Save My Preferences Accept All
+Powered by 
+ 
+Menu
+ About Us
+ Newsletter
+ Investor QA
+ GLP-1
+ Video
+
+Filter by Topic  Search Go
+The Week in AgriFoodTech: Fork  Good acquires Orbillion Bio, 100m regen ag fund, Beyond Meat in court
+Plus: a non-UPF label for food items launches in the US
+Agtech
+FoodTech
+
+Inside Danones open innovation model: From AI to Ozempic-era nutrition
+Danones Irini Schoeman-Giziakis joins AgFunderNews to talk open innovation, nutrition in the GLP-1 era, and artificial intelligence.
+Artificial intelligence
+Corporates
+
+Fresh Del Monte CEO sounds alarm as deadly fusarium wilt hits Ecuadors banana crop: Its a losing battle
+While deadly fungal disease TR4 has not yet spread to banana crops in Central America, says the CEO of Fresh Del Monte, Its just a matter of time.
+Agtech
+Climate  sustainability
+
+The Week in AgriFoodTech: Fork  Good acquires Orbillion Bio, 100m regen ag fund, Beyond Meat in court
+Plus: a non-UPF label for food items launches in the US
+Agtech
+FoodTech
+
+Inside Danones open innovation model: From AI to Ozempic-era nutrition
+Danones Irini Schoeman-Giziakis joins AgFunderNews to talk open innovation, nutrition in the GLP-1 era, and artificial intelligence.
+Artificial intelligence
+Corporates
+
+Fresh Del Monte CEO sounds alarm as deadly fusarium wilt hits Ecuadors banana crop: Its a losing battle
+While deadly fungal disease TR4 has not yet spread to banana crops in Central America, says the CEO of Fresh Del Monte, Its just a matter of time.
+Agtech
+Climate  sustainability
+
+The Week in AgriFoodTech: Fork  Good acquires Orbillion Bio, 100m regen ag fund, Beyond Meat in court
+Plus: a non-UPF label for food items launches in the US
+Agtech
+FoodTech
+
+ 1
+ 2
+ 3
+
+The EVERY Co and Onego Bio eyed merger before IP talks went south, court docs reveal
+Alternative protein
+Biomanufacturing  biologicals
+
+Guest article: COP30 is our chance to achieve resilient global food securityby empowering smallholders
+APAC
+Climate  sustainability
+
+EDITORS PICK
+Wheres the progress in bioherbicide development? Industry players weigh in
+Agtech
+Biomanufacturing  biologicals
+
+Nutriearth scales light-activated vitamin D3 from an intriguing new source
+Carbon Robotics founder Paul Mikesell on agtech: Be careful how you talk about it
+Fruitist rides healthy snacking wave with 150m raise: GLP-1 consumers buy more berries
+Theres no elephant in the alt protein room, says GFI CEO Nigel Sizer, but change takes time and money
+Alternative protein
+Biomanufacturing  biologicals
+
+Agtonomy bags 18m to bring more AI to the next frontier of automation: agricultural equipment
+Agtech
+Artificial intelligence
+
+How PepsiCo, Walmart and other agrifood companies fortify their supply chains with AI
+Agtech
+Artificial intelligence
+
+Investors call for more plant-based proteins from food manufacturers and retailers: FAIRR
+MyForest Foods mycelium bacon sizzles as alt meat market cools
+ How does front end innovation work at Givaudan? In conversation with Alexandre Bastos
+PeakBridges Nadav Berger on people, partnerships, and portfolio discipline: At the end of the day, were in the business of HR
+Breaking: Vivici and The Every Co explore 4m-liter alt protein facility in UAE
+The Week in AgriFoodTech: Bezos Earth Fund sets up 30m AI challenge, Nutropy nets 8m
+Po Bronson on surviving the agrifoodtech venture downturn, non-rigorous thinking, and weapons of mass dilution
+Farm robotics in the weeds as funding declines 36 from Q2 to Q3
+Plant-based cheese startup Stockeld Dreamery shutters as flexitarian dream fizzles
+!AgFunder Newsletter
+Subscribe to the industrys top headlines from the pages of AgFunderNews that week, as well as a roundup of global media coverage, a list of job openings in the sector, and alerts about our latest research reports.
+By clicking Sign Up youre confirming that you agree with our Terms and Conditions.
+Solar Foods CEO on scaling up protein from thin air: We have MOUs and LOIs for more than 50 of new factory already
+Alternative protein
+Biomanufacturing  biologicals
+
+Another 14m unlocked for Africas smallholders as part of 200m private-sector finance initiative
+Developing markets
+Investing
+
+EDITORS PICK
+ Food formulation and precision nutrition in the Ozempic era: Theres an entire secondary market that can come from any breakthrough technology
+Biomanufacturing  biologicals
+FoodTech
+
+Making every drop count: AgZen partners with Corteva to redefine spray efficiency
+Control of production is more important than loosely based label claims, says Nebraska beef producer
+Armed with 47m, MATR Foods to scale next generation of alt meat via solid-state fermentation
+1 2 3  275 Next 
+!AgFunder Newsletter
+Sign up for our weekly newsletter.
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
+
+AFN is part of the AgFunder family. To learn more about AgFunder, visit us at 
+Sign up to our weekly newsletter for the latest news, views and research about the worlds food and agriculture industries.
+By clicking Sign Up youre confirming that you agree with our Terms and Conditions.
+ 2025 AgFunder. All rights reserved.
+ Privacy and Cookie Policy
+ Terms of Use
+  Newsletter
+
+This site is operated by AgFunder Inc.,AgFunder, which is not a registered broker-dealer. AgFunder does not give investment advice, endorsement, analysis or recommendations with respect to any securities. All securities listed here are being offered by, and all information included on this site is the responsibility of, the applicable issuer of such securities. AgFunder has not taken any steps to verify the adequacy, accuracy, or completeness of any information. Neither AgFunder nor any of its officers, directors, agents and employees makes any warranty, express or implied, of any kind whatsoever related to the adequacy, accuracy or completeness of any information on this site of the use of information on this site. By accessing this site and any pages thereof, you agree to be bound by the Terms of Use and Privacy Policy.
+Clear Filters
+Topics
+Agrifintech Agtech Alternative protein APAC Artificial intelligence Biomanufacturing  biologicals Climate  sustainability Corporates Deeptech Developing markets EMEA FoodTech Investing Latam Livestockanimal ag Novel farming systems Nutrition  health Opinion Plant breeding  genetics Policy  regulation Precision agriculture Regenerative Agriculture Research  data Restaurant and retail tech Startups  funding Supply chain Uncategorized US  Canada
+Apply Filter

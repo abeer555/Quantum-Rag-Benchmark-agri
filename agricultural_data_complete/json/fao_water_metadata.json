@@ -1,0 +1,9 @@
+{
+  "source_name": "fao_water",
+  "url": "https://www.fao.org/land-water/en/",
+  "scraped_at": "2025-11-03T01:07:44.944607",
+  "content_length": 3764,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/fao_water.txt"
+}

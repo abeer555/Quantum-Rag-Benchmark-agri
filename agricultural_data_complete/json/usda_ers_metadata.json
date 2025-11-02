@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_ers",
+  "url": "https://www.ers.usda.gov/",
+  "scraped_at": "2025-11-03T01:08:53.244953",
+  "content_length": 5986,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_ers.txt"
+}

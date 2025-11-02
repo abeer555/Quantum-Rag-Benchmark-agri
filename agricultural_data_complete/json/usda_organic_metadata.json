@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_organic",
+  "url": "https://www.usda.gov/topics/organic",
+  "scraped_at": "2025-11-03T01:08:45.057835",
+  "content_length": 20013,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_organic.txt"
+}

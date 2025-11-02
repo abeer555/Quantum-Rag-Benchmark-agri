@@ -1,0 +1,9 @@
+{
+  "source_name": "eu_cap",
+  "url": "https://agriculture.ec.europa.eu/common-agricultural-policy_en",
+  "scraped_at": "2025-11-03T01:10:50.330192",
+  "content_length": 5194,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/eu_cap.txt"
+}

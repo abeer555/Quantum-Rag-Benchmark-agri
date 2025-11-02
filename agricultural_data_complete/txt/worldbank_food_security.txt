@@ -1,0 +1,139 @@
+================================================================================
+SOURCE: worldbank_food_security
+URL: https://www.worldbank.org/en/topic/agriculture/brief/food-security-and-covid-19
+SCRAPED: 2025-11-03 01:09:16
+CONTENT LENGTH: 3600 characters
+================================================================================
+
+1. 
+ 2. Development Topics
+
+!Two women proudly stand with their agricultural equipment in Bangladesh.
+Tackling complex, intertwined challenges with knowledge, experience, and innovation. Learn more about our projects and priorities.
+Browse All Topics
+Select a Topic
+ Agriculture
+ Climate
+ Digital Transformation
+ Economic Policies
+ Education
+ Energy and Extractives
+ Environment
+ Finance, Competitiveness, and Investment
+ Fragility, Conflict, and Violence
+ Gender
+ Health
+ Inclusion
+ Institutions
+ Poverty
+ Social Protection
+ Sustainable Infrastructure Finance
+ Transport
+ Urban Development
+ Water
+
+Topics
+https:www.worldbank.orgentopic
+world-bank:categorypeople
+Promote global health, inclusive education, and social protection.
+ Education
+ Early Childhood Development
+ Digital Technologies in Education
+ Girls Education
+ Skills and Workforce Development
+ Teachers
+ Tertiary Education
+ Health
+ Health Impacts of Climate Change
+ Nutrition
+ Health Emergencies
+ Universal Health Coverage
+ Social Protection
+ Employment and Labor
+ Migration
+ Pensions
+ Safety Nets
+
+!A child in a classroom raises their hand confidently, surrounded by other students, with a chalkboard visible in the background.
+world-bank:categoryprosperity
+Invest in projects, policies, governance, and systems that create opportunity and prosperity.
+ Economic Policy
+ Debt
+ Growth  Jobs
+ Fiscal Policy
+ Finance, Competitiveness  Investment
+ Competitiveness
+ Financial Inclusion
+ Financial Sector
+ Trade
+ Institutions
+ Anticorruption for Development
+ Procurement
+ Poverty
+ Inequality and Shared Prosperity
+
+!A young child wearing a bright red hat and pink overalls is held by smiling woman in Madagascar.
+world-bank:categoryplanet
+Provide sustainable food systems, water, and economies for healthy people and a healthy planet.
+ Agriculture
+ Agribusiness and Value Chains
+ Climate-Smart Agriculture
+ Food Security
+ Food System Jobs
+ Climate
+ Environment
+ Biodiversity
+ Forests and Landscapes
+ Marine Plastic Pollution
+ Natural Capital
+ Oceans, Fisheries, and Coastal Economies
+ Pollution
+ Social Development
+ Community-Driven Development
+ Citizen Engagement
+ Disability Inclusion
+ Indigenous Peoples
+ Sexual Orientation and Gender Identity
+ Social Cohesion and Resilience
+ Social Dimensions of Climate Change
+ Social Inclusion
+ Water
+ Water for Food
+ Water for People
+ Water for Planet
+
+!A landscape featuring rolling hills and a winding river, with snow-capped mountains in the background.
+world-bank:categoryinfrastructure
+Develop safe and sustainable energy, transportation, and urban mobility.
+ Energy  Extractives
+ Energy
+ Extractives
+ Gas Flaring Reduction
+ Just Transition Away from Coal
+ Sustainable Infrastructure Finance
+ Private Participation in Infrastructure
+ Transport
+ Air Transport
+ Gender  Transport
+ Shipping and Ports
+ Urban Development, Resilience, and Land
+ Urban Development
+ Disaster Risk Management
+ Land
+
+!An urban scene at dusk, showcasing a densely packed cityscape with illuminated buildings and streets.
+world-bank:categorydigital
+Accelerate digital access to create economic opportunity and to transform lives.
+ Digital Transformation
+ Connectivity
+ Cybersecurity
+ Digital for Climate
+ Digital Public Infrastructure
+
+!Two schoolgirls in plaid uniforms sitting on the floor against a brick wall. One girl is using a laptop while the other leans in to look at the screen.
+world-bank:categorycross-cutting-areas
+Issues affecting all areas of development.
+ Gender
+ Fragility, Conflict and Violence
+
+!Rural setting, with one woman stirring a large pot over an outdoor fire and a girl standing nearby, observing.

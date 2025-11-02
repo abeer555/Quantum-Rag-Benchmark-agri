@@ -1,0 +1,9 @@
+{
+  "source_name": "ifpri",
+  "url": "https://www.ifpri.org/",
+  "scraped_at": "2025-11-03T01:09:45.958471",
+  "content_length": 15335,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/ifpri.txt"
+}

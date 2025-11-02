@@ -1,0 +1,256 @@
+================================================================================
+SOURCE: usda_nass
+URL: https://www.nass.usda.gov/
+SCRAPED: 2025-11-03 01:09:02
+CONTENT LENGTH: 8613 characters
+================================================================================
+
+Skip to Main Content
+!USDA Logo
+!NASS - Agriculture Counts
+United States Department of Agriculture
+National Agricultural Statistics Service
+ 
+Subscriptions: National  News
+ 
+ Home
+ Data  Statistics
+ Publications
+ Research, Science and Technology
+ Newsroom (current)
+ Surveys
+ Census
+ NASS Information 
+ About NASS
+ Regional Offices
+ Careers
+ Contact Us
+ Subscriptions 
+ National
+ State
+ News
+
+ [](https:www.nass.usda.govindex.php Go to the NASS Homepage)
+ Data  Statistics 
+Access Quick Stats (searchable database) [](https:quickstats.nass.usda.gov Go to Quick Stats website)
+The Quick Stats Database is the most comprehensive tool for accessing agricultural data published by NASS. It allows you to customize your query by commodity, location, or time period.
+ Quick Stats System Updates
+ Download Quick Stats data files
+Access Quick Stats Lite [](https:www.nass.usda.govQuick_StatsLiteindex.php Go to Quick Stats Lite)
+Quick Stats Lite provides a more structured approach to get commonly requested statistics from our online database.
+Explore Statistics
+ By State 
+ By Subject
+ Crops and Plants
+ Demographics
+ Economic and Prices
+ Environmental
+ Livestock and Animals
+ Research, Science, and Technology
+ Charts and Maps 
+ Data Visualization 
+ Pre-Defined Queries 
+ Special Tabulations and Restricted Microdata 
+
+County Level Information
+ County Maps
+ County and District Geographic Boundaries
+ County and District Codes
+ Commodity Codes
+ Livestock County Estimates
+Geospatial Data  Interactive Maps
+ CroplandCROS
+ Cropland Data Layer
+ Crop Sequence Boundaries 
+ Crop Progress  Condition Gridded Layers 
+ Disaster Analysis 
+ Land Use Strata for Selected States
+ Publications 
+Todays Reports [](https:www.nass.usda.govPublicationsindex.php)
+Browse NASS Reports
+ by Subject
+ by Date (Reports Calendar)
+ by TitleRelease Day
+ by Keyword
+ Guide to Products and Services
+Additional Reports
+ Highlights
+ 2022 Census of Agriculture
+ Surveys and Programs
+ Methodology  Quality Measures
+ Agricultural Statistics Board Corrections
+ Research Reports
+Historical Publications
+ Archived Ag Census Reports (2002 and prior - published every 5 years)
+ Annual Agricultural Statistics
+ Statistical Bulletins (final estimates, 1987 to 2012
+ Track Records: (crops, livestock, grain stocks)
+ Trends 20th century
+ Price Reactions (after crop or livestock reports)
+Receive Reports by Email:
+ National Reports
+ NASS News Releases
+ Newsroom 
+News Releases
+093025 US corn ending stocks down 13 from last year, soybean ending stocks down 8 
+092925 USDA to Host Data Users Meeting to Gather Public Input on Statistical Programs 
+092525 United States hog inventory down 1 
+092425 USDA To Measure Milk Production 
+091225 USDA Forecasts US Corn Production Up, Soybean and Cotton Production Down from 2024 
+Read More News
+ASB Notices
+103125 USDAs National Agricultural Statistics Service (NASS) will release key data in November
+082825 NASS discontinues select data collection programs and reports
+031925 NASS reinstates select data collection programs and reports
+022625 NASS Delays Trout Production Data Release
+010225 NASS Delays Weekly Slaughter Release
+Read More Notices
+Videos
+021324 
+021324 
+021324 
+071621 
+080520 
+View More Videos
+ASB Briefings
+093025 Small Grains Summary and Grain Stocks (September 2025)
+092525 Hogs and Pigs (September 2025)
+091225 Crop Production (September 2025)
+081225 Crop Production (August 2025)
+072525 Cattle (July 2025)
+View More Briefings
+ Surveys 
+Respond to Surveys Online [](https:www.agcounts.usda.gov Go to Survey Page)
+Guide to NASS Surveys and Programs
+Understanding Agricultural Statistics
+Make Sure Im Counted
+Statistical Programs and Review
+ Census
+ About NASS 
+Structure and Organization
+ Agency Overview
+ NASS Biographies
+ Organizational Chart
+ Assistance to Other Organizations
+ International Programs
+ Talking About NASS - A guide for partners and stakeholders
+ NASS Strategic Plan for FY 2022-2026
+ USDA Strategic Goals
+Guiding Principles
+ Mission and Core Values
+ Keeping Data Safe
+ Confidentiality Pledge
+ Security Pledge
+ Security Statement
+ Statement of Commitment to Scientific Integrity
+ Regulations Guiding NASS
+ Information Quality
+ Learning Agenda, Fiscal Year 2024 -2026
+Civil Rights
+ Anti-Harassment Policy  USDA
+ Civil Rights Accountability Policy and Procedures
+ No FEAR Act Notice
+ No FEAR Act - NASS Data
+ REE Reasonable Accommodations and Personal Assistance Services
+ How to File an EEO Complaint
+ Accessibility Statement
+ And Justice for All posters
+Work at NASS
+ Career Opportunities
+Education and Outreach 
+ Understanding Ag Statistics
+ Data Users Meetings
+ Morris Hansen Lecture
+ International Conference on Agricultural Statistics
+History and Procedures
+ Agricultural Statistics Board and Lockup
+ Agricultural Statistics: A Historical Timeline
+ The Story of U.S. Agricultural Estimates
+ As We Recall: The Growth of Agricultural Estimates, 1933-1961
+ Safeguarding Americas Agricultural Statistics Report and 
+ History of Ag Statistics
+ Report Procedures
+ An Evolving Statistical Service
+ Fact Finders for Agriculture
+ Agriculture Counts - The Founding and Evolution of the National Agricultural Statistics Service 1957-2007
+ Hall of Fame
+ Contact Us 
+Mailing Address:
+USDA-NASS 
+1400 Independence Ave., SW 
+Washington, DC 20250
+Survey FAQs and Contact Us:
+[](https:www.nass.usda.govFeedbackindex.php)
+Data Inquiries:
+Hours: 8:00 a.m. - 5:00 p.m. Central Standard Time 
+Monday - Friday, except federal holidays 
+Toll-Free: 
+Media Inquiries:
+Email: NASS-Mediausda.gov 
+Other USDA Inquiries:
+Hours: Monday to Friday 8 a.m. - 5 p.m. EST 
+Toll-Free: 
+Email: askusdausda.gov 
+Website: https:ask.usda.govs
+Translation Services:
+Email: NASSLanguagesusda.gov 
+Regional and State Field Offices:
+[](https:www.nass.usda.govStatistics_by_StateRFOindex.php)
+Ask a Specialist:
+[](https:www.nass.usda.govContact_UsAsk_a_Specialistindex.php Ask a NASS Specialist)
+Web Content Publishing Schedule:
+Section 207(f)(2) of the E-Government Act of 2002 requires federal agencies to develop an inventory of information to be published on their Web sites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the Web site. 
+ Help 
+Technical Issues
+ RSS Feed
+ Contact Us 
+Search Tips
+ Search Tips
+For Developers and Data Users
+ Application Programming Interfaces (APIs)
+
+Notice: The Radical Left Democrats shutdown the government. This government website will not be updated during the funding lapse for mission critical functions. President Trump has made it clear he wants to keep the government open and support those who feed, fuel, and clothe the American people. 
+Todays Reports
+[](https:www.nass.usda.govPublicationsCalendarreports_by_date.php) 
+
+ Previous Next 
+DATA ACCESS: We are updating our systems and plan to avoid interruptions. However, NASS data and reports are available in multiple ways in addition to this website - Cornell University Mann Library (a USDA repository) website and e-mail report subscription service; QuickStats database, API, and downloadable data files; and a JSON file for principal economic indicator data. 
+Headlines
+103125 NEWS RELEASE: USDAs National Agricultural Statistics Service (NASS) will release key data in November
+093025 NEWS RELEASE: US corn ending stocks down 13 from last year, soybean ending stocks down 8 
+092925 NEWS RELEASE: USDA to Host Data Users Meeting to Gather Public Input on Statistical Programs 
+092525 NEWS RELEASE: United States hog inventory down 1 
+092425 NEWS RELEASE: USDA To Measure Milk Production 
+Find Data and Reports by:
+Select a State Regional Offices Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New England New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Puerto Rico Puerto Rico (Spanish) Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming
+Find a Regional or State Field Office
+
+ Providing Timely, Accurate and Useful Statistics in Service to U.S. Agriculture 
+ NASS Home
+  
+ USDA.gov
+  
+  
+  
+  
+ Economics, Statistics and Market Information System (ESMIS)
+  
+ No Fear Act - NASS Data
+  
+ Accessibility Statement
+  
+ FOIA
+
+ Privacy Policy and Assessments
+  
+ Security Statement
+  
+ Information Quality
+  
+ Non-Discrimination Statement
+  
+ Guidance Documents
+  
+ USDA Policies and Links
+  
+  AskUSDA

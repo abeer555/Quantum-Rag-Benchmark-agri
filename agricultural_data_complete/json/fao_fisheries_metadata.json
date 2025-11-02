@@ -1,0 +1,9 @@
+{
+  "source_name": "fao_fisheries",
+  "url": "https://www.fao.org/fishery/en/",
+  "scraped_at": "2025-11-03T01:07:57.627292",
+  "content_length": 1422,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/fao_fisheries.txt"
+}

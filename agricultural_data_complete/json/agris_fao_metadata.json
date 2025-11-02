@@ -1,0 +1,9 @@
+{
+  "source_name": "agris_fao",
+  "url": "https://agris.fao.org/",
+  "scraped_at": "2025-11-03T01:11:24.025117",
+  "content_length": 2973,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/agris_fao.txt"
+}

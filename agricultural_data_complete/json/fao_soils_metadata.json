@@ -1,0 +1,9 @@
+{
+  "source_name": "fao_soils",
+  "url": "https://www.fao.org/soils-portal/en/",
+  "scraped_at": "2025-11-03T01:07:25.252517",
+  "content_length": 4024,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/fao_soils.txt"
+}

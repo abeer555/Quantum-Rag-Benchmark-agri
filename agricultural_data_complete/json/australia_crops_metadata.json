@@ -1,0 +1,9 @@
+{
+  "source_name": "australia_crops",
+  "url": "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/crops",
+  "scraped_at": "2025-11-03T15:08:46.760513",
+  "content_length": 14145,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/australia_crops.txt"
+}

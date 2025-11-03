@@ -1,0 +1,9 @@
+{
+  "source_name": "canada_livestock",
+  "url": "https://agriculture.canada.ca/en/sector/livestock",
+  "scraped_at": "2025-11-03T15:09:40.146538",
+  "content_length": 8400,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/canada_livestock.txt"
+}

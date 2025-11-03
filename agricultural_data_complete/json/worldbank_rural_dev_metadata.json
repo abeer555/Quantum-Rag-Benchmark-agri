@@ -1,0 +1,9 @@
+{
+  "source_name": "worldbank_rural_dev",
+  "url": "https://www.worldbank.org/en/topic/rural-development",
+  "scraped_at": "2025-11-03T15:04:06.037936",
+  "content_length": 3593,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/worldbank_rural_dev.txt"
+}

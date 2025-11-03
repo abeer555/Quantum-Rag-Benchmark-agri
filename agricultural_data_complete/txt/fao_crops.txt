@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: fao_crops
 URL: https://www.fao.org/crop-production/en/
-SCRAPED: 2025-11-03 01:07:03
-CONTENT LENGTH: 3673 characters
+SCRAPED: 2025-11-03 14:59:50
+CONTENT LENGTH: 3644 characters
 ================================================================================
 
 Discover 
@@ -10,9 +10,6 @@ About FAO In action Media Main topics Resources Member countries Get involved
 English 
 Français Español
 [](https:www.fao.orghome404) [](https:www.fao.orghome404collapseSearchBox)
-  
------- 
-search  
  About FAO 
  About Us 
  Director-General 
@@ -154,5 +151,3 @@ Regional Office for Africa Regional Office for Asia and the Pacific Regional Off
  Transparency and accountability
 
  FAO 2025
- 
-------

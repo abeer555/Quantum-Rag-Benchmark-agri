@@ -1,0 +1,9 @@
+{
+  "source_name": "australia_livestock",
+  "url": "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/livestock",
+  "scraped_at": "2025-11-03T15:08:59.046109",
+  "content_length": 13163,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/australia_livestock.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "source_name": "farm_economics",
+  "url": "https://farmdocdaily.illinois.edu/",
+  "scraped_at": "2025-11-03T15:18:50.879005",
+  "content_length": 24392,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/farm_economics.txt"
+}

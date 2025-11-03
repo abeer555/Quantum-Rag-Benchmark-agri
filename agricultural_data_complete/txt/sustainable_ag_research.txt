@@ -1,7 +1,7 @@
 ================================================================================
 SOURCE: sustainable_ag_research
 URL: https://www.sustainableagriculture.net/
-SCRAPED: 2025-11-03 01:11:45
+SCRAPED: 2025-11-03 15:11:48
 CONTENT LENGTH: 2380 characters
 ================================================================================
 

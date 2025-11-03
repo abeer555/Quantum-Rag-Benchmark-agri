@@ -1,0 +1,9 @@
+{
+  "source_name": "china_agriculture",
+  "url": "http://www.moa.gov.cn/",
+  "scraped_at": "2025-11-03T15:10:20.237130",
+  "content_length": 4345,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/china_agriculture.txt"
+}

@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: fao_statistics
 URL: https://www.fao.org/statistics/en/
-SCRAPED: 2025-11-03 01:06:50
-CONTENT LENGTH: 10416 characters
+SCRAPED: 2025-11-03 14:59:38
+CONTENT LENGTH: 10445 characters
 ================================================================================
 
 Discover 
@@ -10,6 +10,9 @@ About FAO In action Media Main topics Resources Member countries Get involved
 English 
 العربية 中文 Français Русский Español
 [](https:www.fao.orgstatisticsen) [](https:www.fao.orgstatisticsencollapseSearchBox)
+  
+------ 
+search  
  About FAO 
 Loading... 
  News 
@@ -339,3 +342,5 @@ Regional Office for Africa Regional Office for Asia and the Pacific Regional Off
  Transparency and accountability
 
  FAO 2025
+ 
+------

@@ -957,7 +957,7 @@ def main():
     print("""
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║           ADVANCED RAG COMPARISON: DATASET SIZE & BLEU ANALYSIS            ║
-║         Testing: Quantum performs better on larger datasets               ║
+║         Testing: Quantum performs better on larger datasets                ║
 ║         Strategy: Adaptive quantum blending based on dataset size          ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 """)
@@ -969,9 +969,12 @@ def main():
         return
     
     # Dataset sizes to test (number of source files)
-    dataset_sizes = [5, 10, 20, 30, 50]
+    # Expanded with more data points for better complexity analysis
+    # This will create a clearer logarithmic vs linear pattern
+    dataset_sizes = [5, 10, 15, 20, 25, 30, 40, 50, 60, 75, 90, 110]
     
-    print(f"\n📊 Testing with dataset sizes: {dataset_sizes} files")
+    print(f"\n📊 Testing with EXPANDED dataset sizes: {dataset_sizes} files")
+    print(f"   🎯 More data points = clearer complexity analysis!")
     print(f"   Using 12 qubits (increased from 8 for better representation)")
     print(f"   Adaptive quantum blending:")
     print(f"     • Small datasets (< 30 chunks): 15% quantum, 85% classical")

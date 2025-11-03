@@ -1,8 +1,8 @@
 {
   "source_name": "fao_forestry",
   "url": "https://www.fao.org/forestry/en/",
-  "scraped_at": "2025-11-03T01:08:04.191486",
-  "content_length": 8014,
+  "scraped_at": "2025-11-03T15:00:52.604375",
+  "content_length": 7985,
   "success": true,
   "links_count": 2,
   "txt_file": "agricultural_data_complete/txt/fao_forestry.txt"

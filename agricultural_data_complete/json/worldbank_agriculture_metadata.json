@@ -1,8 +1,8 @@
 {
   "source_name": "worldbank_agriculture",
   "url": "https://www.worldbank.org/en/topic/agriculture",
-  "scraped_at": "2025-11-03T01:09:09.567194",
-  "content_length": 8690,
+  "scraped_at": "2025-11-03T15:03:44.500527",
+  "content_length": 9574,
   "success": true,
   "links_count": 2,
   "txt_file": "agricultural_data_complete/txt/worldbank_agriculture.txt"

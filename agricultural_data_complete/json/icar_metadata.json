@@ -1,8 +1,8 @@
 {
   "source_name": "icar",
   "url": "https://icar.org.in/",
-  "scraped_at": "2025-11-03T01:11:17.425589",
-  "content_length": 8890,
+  "scraped_at": "2025-11-03T15:09:50.631712",
+  "content_length": 8997,
   "success": true,
   "links_count": 2,
   "txt_file": "agricultural_data_complete/txt/icar.txt"

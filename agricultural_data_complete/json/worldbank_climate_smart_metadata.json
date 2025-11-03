@@ -1,0 +1,9 @@
+{
+  "source_name": "worldbank_climate_smart",
+  "url": "https://www.worldbank.org/en/topic/climate-smart-agriculture",
+  "scraped_at": "2025-11-03T15:04:00.852662",
+  "content_length": 9595,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/worldbank_climate_smart.txt"
+}

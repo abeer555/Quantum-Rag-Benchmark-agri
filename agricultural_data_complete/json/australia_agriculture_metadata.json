@@ -1,8 +1,8 @@
 {
   "source_name": "australia_agriculture",
   "url": "https://www.agriculture.gov.au/",
-  "scraped_at": "2025-11-03T01:10:57.162759",
-  "content_length": 7043,
+  "scraped_at": "2025-11-03T15:08:24.718840",
+  "content_length": 7104,
   "success": true,
   "links_count": 2,
   "txt_file": "agricultural_data_complete/txt/australia_agriculture.txt"

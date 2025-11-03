@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: australia_agriculture
 URL: https://www.agriculture.gov.au/
-SCRAPED: 2025-11-03 01:10:57
-CONTENT LENGTH: 7043 characters
+SCRAPED: 2025-11-03 15:08:24
+CONTENT LENGTH: 7104 characters
 ================================================================================
 
 Skip to main content Skip to main navigation Skip to search 
@@ -148,6 +148,13 @@ We want to hear from you.
 You can help shape our policies and decisions.
 Engage with us
 News and Media
+One Health Day messages from three biosecurity Chiefs
+ Media release
+
+ Biosecurity
+
+3 November 2025
+Australias three Chiefs of biosecurity have come together to mark One Health Day, reminding all Australians of the shared responsibility to safeguard our world-renowned biosecurity status.
 ABARES Outlook 2026 - a forum to exchange and test ideas
  Media release
 
@@ -162,13 +169,6 @@ The road to reform: How developed countries can repurpose agricultural support
 
 28 October 2025
 Australias successful agricultural policy reforms show policy makers in developed countries a pathway to cutting subsidies and tariffs, according to a new ABARES Insights paper.
-Release of the Biosecurity Funding and Expenditure Report 2024-25
- News
-
- Biosecurity
-
-28 October 2025
-The Biosecurity Funding and Expenditure Report 2024-25 has been released. This marks the second year of dedicated financial reporting for biosecurity. The report includes:
 All news and media
 Our portfolio websites
 Was this page helpful?
@@ -178,6 +178,9 @@ Please tell us more in your own words (do not provide personal details)
 We arent able to respond to your individual comments or questions. 
 To contact us directly phone us or submit an online inquiry
 CAPTCHA 
+Recaptcha requires verification. 
+reCAPTCHA
+- 
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Was this page helpful
 Please verify that you are not a robot.

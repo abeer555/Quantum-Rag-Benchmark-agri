@@ -1,8 +1,8 @@
 {
   "source_name": "agfunder",
   "url": "https://agfundernews.com/",
-  "scraped_at": "2025-11-03T01:11:59.763306",
-  "content_length": 13431,
+  "scraped_at": "2025-11-03T15:13:05.251635",
+  "content_length": 13675,
   "success": true,
   "links_count": 2,
   "txt_file": "agricultural_data_complete/txt/agfunder.txt"

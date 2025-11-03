@@ -1,7 +1,7 @@
 ================================================================================
 SOURCE: eu_cap
 URL: https://agriculture.ec.europa.eu/common-agricultural-policy_en
-SCRAPED: 2025-11-03 01:10:50
+SCRAPED: 2025-11-03 15:07:50
 CONTENT LENGTH: 5194 characters
 ================================================================================
 

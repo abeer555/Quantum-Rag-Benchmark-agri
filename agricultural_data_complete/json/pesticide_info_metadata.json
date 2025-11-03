@@ -1,0 +1,9 @@
+{
+  "source_name": "pesticide_info",
+  "url": "https://npic.orst.edu/",
+  "scraped_at": "2025-11-03T15:19:25.931874",
+  "content_length": 1579,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/pesticide_info.txt"
+}

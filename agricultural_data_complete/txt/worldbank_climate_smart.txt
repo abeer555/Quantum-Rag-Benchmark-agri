@@ -1,0 +1,62 @@
+================================================================================
+SOURCE: worldbank_climate_smart
+URL: https://www.worldbank.org/en/topic/climate-smart-agriculture
+SCRAPED: 2025-11-03 15:04:00
+CONTENT LENGTH: 9595 characters
+================================================================================
+
+1. Understanding Poverty
+ 2. Topics
+
+ This page in: EN _dropdown_
+
+This page in:_
+ English
+
+Climate-smart agriculture 
+Climate-smart agriculture (CSA) is an integrated approach to managing landscapescropland, livestock, forests and fisheries--that address the interlinked challenges of food security and climate change. 
+ 
+Overview
+Climate change and food and nutrition insecurity pose two of the greatest development challenges of our time. Yet a more sustainable food system can not only heal the planet, but ensure food security for all.
+Today, the global agrifood system emits of all emissions. Global food demand is estimated to 
+Food systems are the leading source of methane emissions and biodiversity loss, and they use around 70 of fresh water. If food waste were a country, it would be the third highest emitter in the world. Meanwhile, emissions from agriculture are increasing in developing countries  a worrying trend which must be reversed.
+Without significant climate mitigation action in the agri-food sector, the Paris Agreement goals cannot be reached. Agriculture is the primary cause of deforestation, threatening pristine ecosystems such as the Amazon and the Congo Basin. Without action, emissions from food systems will rise even further, with increasing food production.
+Achieving the Triple Win of CSA
+The global agrifood system must therefore deliver on multiple fronts. It must feed the world, adapt to climate change, and drastically reduce its greenhouse gas emissions. In response to these challenges, the concept of Climate-smart Agriculture (CSA) has emerged as a holistic approach to end food security and promote sustainable development while addressing climate change issues.
+CSA is a set of agricultural practices and technologies which simultaneously boost productivity, enhance resilience and reduce GHG emissions. Although it is built on existing agricultural knowledge, technologies, and sustainability principles, CSA is distinct in several ways. First, it has an explicit focus on addressing climate change in the agrifood system. Second, CSA systematically considers the synergies and tradeoffs that exist between productivity, adaptation, and mitigation. And third, CSA encompasses a range of practices and technologies that are tailored to specific agro-ecological conditions and socio-economic contexts including the adoption of climate-resilient crop varieties, conservation agriculture techniques, agroforestry, precision farming, water management strategies, and improved livestock management. By implementing these practices, triple win results can be achieved:
+1. Increased productivity: Produce more and higher quality food without putting an additional strain on natural resources, to improve nutrition security and boost incomes, especially for 
+2. Enhanced resilience: Reduce vulnerability to droughts, pests, diseases and other climate-related risks and shocks; and improve the capacity to adapt and grow in the face of longer-term stresses like increased seasonal variability and more erratic weather patterns.
+3. Reduced emissions: Reduce greenhouse gas emissions of the food system, avoid deforestation due to cropland expansion, and increase the carbon sequestration of plants and soils.
+Finally, funding for CSA needs to be increased to align available finance with the relevance of the sector. Despite causing one third of global greenhouse gas emissions, agrifood systems receive 4 of climate finance, with only 
+Climate-Smart Agriculture and the World Bank Group
+The World Bank has significantly scaled up its engagement and investment in climate-smart agriculture (CSA). In its the World Bank has identified Agriculture, Food, Water and Land as one of the five key transitions needed to tackle the Paris Agreement. Since the adoption of the Paris Agreement, the World Bank has increased financing for CSA by eight times, to almost 3 billion annually.
+As of July 2023, all new World Bank operations must be aligned with the goals of the Paris Agreement, meaning that CSA is at the core of all the World Banks new agriculture and food operations. To this end, the World Bank has prepared a Sector Note of Paris Alignment of its Agriculture and Food operations. Furthermore, all projects are screened for climate and disaster risks. Climate change indicators are used to measure outputs and outcomes, and greenhouse gas accounting of projects is conducted prior to approval . These actions will help client countries implement their 
+The World Bank engages strategically with countries, supporting them to enhance productivity, improve resilience and reduce greenhouse gas emissions. The World Bank uses the following tools, diagnostics and other analytics to help countries in the transition towards sustainable agriculture.
+ Country Climate and Development Reports (CCDRs), new core diagnostics, help countries prioritize the most impactful actions that can reduce greenhouse gas emissions and boost adaptation, while delivering on broader development goals. CCDRs identify climate impacts on countries agrifood systems, such as reduced yields and increased food prices, and present a variety of country-specific technology options as well as policy reforms under the umbrella of CSA.
+ Climate-Smart Agriculture Investment Plans (CSAIPs) developed for a subset of client countries aim to mainstream CSA into national agricultural policies and to identify investment opportunities in CSA. The World Bank provides technical assistance and financial support to help countries develop and implement CSAIPs. These plans prioritize investments in climate-resilient infrastructure, capacity building, and knowledge sharing to promote sustainable agricultural practices. CSAIPs are available, or currently under preparation, for Bangladesh, Belize, .pdf) Burkina Faso, Cote DIvoire, Cameroon, the Republic of Congo, Ghana, Iraq, Jordan, Kenya, Lesotho, Madagascar, Mali, Nepal, Senegal, Zambia, and Zimbabwe.
+ The World Bank also supports research programs such as with the 
+
+Working Toward Resilience and Food and Nutrition Security, while Curbing GHG Emissions
+The Banks support of CSA is making a difference across the globe, for example:
+ A new US345 million loan for the China Green Agricultural and Rural Revitalization Program for Results will support Chinas global public goods agenda by promoting the greening of agriculture and rural development in Hubei and Hunan provinces in central China. The program will reduce greenhouse gas (GHG) emissions from crop and livestock farming, increase carbon sequestration in farmlands, and improve biodiversity protection and restoration in agricultural ecosystems, while strengthening the institutional capacity of local governments to integrate environmental and decarbonization objectives in government rural revitalization plans and investments. World Bank financing will complement a US4.1 billion commitment by the Government of China (GoC).
+ The US621 million Food Systems Resilience Program for Eastern and Southern Africa (Phase 3) FSRP Project in Kenya, Comoros, Malawi, Somalia aims to increase the resilience of food systems and the recipients preparedness for food insecurity. The project has six components, including building resilient agricultural production capacity to strengthen the productivity and resilience of domestic food production to shocks and stressors, by supporting the development and adoption of improved agricultural inputs and services and climate-smart and gender-sensitive farming technologies in the crops, livestock, and fisheries sectors.
+ A US200 million credit for the Punjab Resilient and Inclusive Agriculture Transformation Project (PRIAT) will help Pakistan enhance access to, and productivity of, agricultural water, and improve incomes of farmers supported by the project. PRIAT will notably reduce the differences in water availability among head, middle, and tail end users of watercourses, increase agricultural output per unit of water used at farm level for selected crops, increase the share of area under high-value crops cultivation, and increase agriculture incomes of households participating in project activities, yielding important climate change adaptation and mitigation co-benefits.
+ The US125 million Agriculture Resilience, Value Chain Development and Innovation (ARDI) program will play a pivotal role in strengthening the transition Jordans agri-food sector. It supports Jordans National Sustainable Agriculture Plan and aims to enhance climate resilience, competitiveness, and inclusivity of the agri-food sector. Over the next five years, it will support 30,000 farming household with the adoption of climate-smart and water-efficient agricultural practices, provide needs-based training, create about 12,000 employment opportunities, and promote value chain and export promotion through advanced market diagnostics. A particular focus will be on strengthening the participation of women, youth and refugees. 
+
+Last Updated: Feb 26, 2024
+  Go back to main topic _Link_ 
+ 
+RESOURCES
+ Recipe for a Livable Planet report launch event, May 22 - Watch live stream
+ Recipe for a Livable Planet: Achieving Net Zero Emissions in the Agrifood System
+ Climate-Smart Agriculture Investment Plans
+ Future of Food: Shaping a Climate-Smart Global Food System
+ Podcast: Can the World Feed Itself as the Climate Changes?
+
+RELATED
+ Brief: Livestock and Sustainability at the World Bank
+ Bringing the Concept of Climate-Smart Agriculture to Life
+
+MULTIMEDIA
+VIDEO Sep 24, 2021
+A Better Food System for Healthier People, Planet and Economy

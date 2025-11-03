@@ -1,0 +1,9 @@
+{
+  "source_name": "icrisat_dryland",
+  "url": "https://www.icrisat.org/dryland-cereals/",
+  "scraped_at": "2025-11-03T15:06:10.853283",
+  "content_length": 37,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/icrisat_dryland.txt"
+}

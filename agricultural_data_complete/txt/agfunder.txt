@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: agfunder
 URL: https://agfundernews.com/
-SCRAPED: 2025-11-03 01:11:59
-CONTENT LENGTH: 13431 characters
+SCRAPED: 2025-11-03 15:13:05
+CONTENT LENGTH: 13675 characters
 ================================================================================
 
 !Revisit consent button
@@ -296,6 +296,7 @@ Farm robotics in the weeds as funding declines 36 from Q2 to Q3
 Plant-based cheese startup Stockeld Dreamery shutters as flexitarian dream fizzles
 !AgFunder Newsletter
 Subscribe to the industrys top headlines from the pages of AgFunderNews that week, as well as a roundup of global media coverage, a list of job openings in the sector, and alerts about our latest research reports.
+Subscribe
 By clicking Sign Up youre confirming that you agree with our Terms and Conditions.
 Solar Foods CEO on scaling up protein from thin air: We have MOUs and LOIs for more than 50 of new factory already
 Alternative protein
@@ -316,6 +317,7 @@ Armed with 47m, MATR Foods to scale next generation of alt meat via solid-state 
 1 2 3  275 Next 
 !AgFunder Newsletter
 Sign up for our weekly newsletter.
+Subscribe
 REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
 REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
 REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
@@ -331,6 +333,7 @@ REPORTING ON THE EVOLUTION OF FOOD  AGRICULTURE
 
 AFN is part of the AgFunder family. To learn more about AgFunder, visit us at 
 Sign up to our weekly newsletter for the latest news, views and research about the worlds food and agriculture industries.
+Subscribe
 By clicking Sign Up youre confirming that you agree with our Terms and Conditions.
  2025 AgFunder. All rights reserved.
  Privacy and Cookie Policy
@@ -342,3 +345,7 @@ Clear Filters
 Topics
 Agrifintech Agtech Alternative protein APAC Artificial intelligence Biomanufacturing  biologicals Climate  sustainability Corporates Deeptech Developing markets EMEA FoodTech Investing Latam Livestockanimal ag Novel farming systems Nutrition  health Opinion Plant breeding  genetics Policy  regulation Precision agriculture Regenerative Agriculture Research  data Restaurant and retail tech Startups  funding Supply chain Uncategorized US  Canada
 Apply Filter
+Sign up to our newsletter!
+Join over 80,000 subscribers to receive our weekly newsletter about the evolution of the worlds food and agriculture industries.
+Subscribe
+We wont send you spam. Unsubscribe at any time.

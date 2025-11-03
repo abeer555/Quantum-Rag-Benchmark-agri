@@ -1,0 +1,700 @@
+================================================================================
+SOURCE: cifor
+URL: https://www.cifor-icraf.org/
+SCRAPED: 2025-11-03 15:06:44
+CONTENT LENGTH: 17265 characters
+================================================================================
+
+!Revisit consent button
+!Close
+We value your privacy
+This website uses cookies to improve your experience and help us analyse our traffic. By clicking Accept All, you consent to our use of cookies. Privacy notice
+Customise Reject All Accept All
+Customise Consent Preferences !Close
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+The cookies that are categorised as Necessary are stored on your browser as they are essential for enabling the basic functionalities of the site. ... Show more
+NecessaryAlways Active
+Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+ Cookie
+PHPSESSID
+ Duration
+session
+ Description
+This cookie is native to PHP applications. The cookie stores and identifies a users unique session ID to manage user sessions on the website. The cookie is a session cookie and will be deleted when all the browser windows are closed.
+
+ Cookie
+wpEmojiSettingsSupports
+ Duration
+session
+ Description
+WordPress sets this cookie when a user interacts with emojis on a WordPress site. It helps determine if the users browser can display emojis properly.
+
+ Cookie
+_cfuvid
+ Duration
+session
+ Description
+Calendly sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services
+
+ Cookie
+__cf_bm
+ Duration
+1 hour
+ Description
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. 
+
+ Cookie
+ASP.NET_SessionId
+ Duration
+session
+ Description
+Issued by Microsofts ASP.NET Application, this cookie stores session data during a users website visit.
+
+Functional
+Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
+ Cookie
+yt-remote-device-id
+ Duration
+Never Expires
+ Description
+YouTube sets this cookie to store the users video preferences using embedded YouTube videos.
+
+ Cookie
+ytidb::LAST_RESULT_ENTRY_KEY
+ Duration
+Never Expires
+ Description
+The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.
+
+ Cookie
+yt-remote-connected-devices
+ Duration
+Never Expires
+ Description
+YouTube sets this cookie to store the users video preferences using embedded YouTube videos.
+
+ Cookie
+yt-remote-session-app
+ Duration
+session
+ Description
+The yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player.
+
+ Cookie
+yt-remote-cast-installed
+ Duration
+session
+ Description
+The yt-remote-cast-installed cookie is used to store the users video player preferences using embedded YouTube video.
+
+ Cookie
+yt-remote-session-name
+ Duration
+session
+ Description
+The yt-remote-session-name cookie is used by YouTube to store the users video player preferences using embedded YouTube video.
+
+ Cookie
+yt-remote-cast-available
+ Duration
+session
+ Description
+The yt-remote-cast-available cookie is used to store the users preferences regarding whether casting is available on their YouTube video player.
+
+ Cookie
+yt-remote-fast-check-period
+ Duration
+session
+ Description
+The yt-remote-fast-check-period cookie is used by YouTube to store the users video player preferences for embedded YouTube videos.
+
+ Cookie
+wp-wpml_current_language
+ Duration
+session
+ Description
+WordPress multilingual plugin sets this cookie to store the current languagelanguage settings.
+
+ Cookie
+pll_language
+ Duration
+1 year
+ Description
+Polylang sets this cookie to remember the language the user selects when returning to the website and get the language information when unavailable in another way.
+
+ Cookie
+_zcsr_tmp
+ Duration
+session
+ Description
+Zoho sets this cookie for the login function on the website.
+
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+ Cookie
+_ga_
+ Duration
+1 year 1 month 4 days
+ Description
+Google Analytics sets this cookie to store and count page views.
+
+ Cookie
+_ga
+ Duration
+1 year 1 month 4 days
+ Description
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the sites analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+
+ Cookie
+_gid
+ Duration
+1 day
+ Description
+Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the websites performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously.
+
+ Cookie
+_gat_UA-
+ Duration
+1 minute
+ Description
+Google Analytics sets this cookie for user behaviour tracking. 
+
+ Cookie
+_fbp
+ Duration
+3 months
+ Description
+Facebook sets this cookie to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising after visiting the website.
+
+ Cookie
+browser_id
+ Duration
+5 years
+ Description
+This cookie is used for identifying the visitor browser on re-visit to the website.
+
+ Cookie
+_hjSessionUser_
+ Duration
+1 year
+ Description
+Hotjar sets this cookie to ensure data from subsequent visits to the same site is attributed to the same user ID, which persists in the Hotjar User ID, which is unique to that site.
+
+ Cookie
+_hjSession_
+ Duration
+1 hour
+ Description
+Hotjar sets this cookie to ensure data from subsequent visits to the same site is attributed to the same user ID, which persists in the Hotjar User ID, which is unique to that site.
+
+ Cookie
+iamcsr
+ Duration
+session
+ Description
+Zoho account sets this cookie to track visitors.
+
+Performance
+Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+No cookies to display.
+Advertisement
+Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.
+ Cookie
+yt.innertube::requests
+ Duration
+Never Expires
+ Description
+YouTube sets this cookie to register a unique ID to store data on what videos from YouTube the user has seen.
+
+ Cookie
+yt.innertube::nextId
+ Duration
+Never Expires
+ Description
+YouTube sets this cookie to register a unique ID to store data on what videos from YouTube the user has seen.
+
+ Cookie
+YSC
+ Duration
+session
+ Description
+Youtube sets this cookie to track the views of embedded videos on Youtube pages.
+
+ Cookie
+VISITOR_INFO1_LIVE
+ Duration
+6 months
+ Description
+YouTube sets this cookie to measure bandwidth, determining whether the user gets the new or old player interface.
+
+ Cookie
+VISITOR_PRIVACY_METADATA
+ Duration
+6 months
+ Description
+YouTube sets this cookie to store the users cookie consent state for the current domain. 
+
+ Cookie
+scribd_ubtc
+ Duration
+10 years
+ Description
+Scribd sets this cookie to gather data on user behaviour across several websites and maximise the relevancy of the advertisements on the website.
+
+ Cookie
+test_cookie
+ Duration
+15 minutes
+ Description
+doubleclick.net sets this cookie to determine if the users browser supports cookies.
+
+ Cookie
+did
+ Duration
+1 year
+ Description
+Arbor sets this cookie to show targeted ads to site visitors.This cookie expires after 2 months or 1 year.
+
+Uncategorised
+Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.
+ Cookie
+n3xeirxf
+ Duration
+5 days
+ Description
+Description is currently not available.
+
+ Cookie
+ha7kxme0
+ Duration
+5 days
+ Description
+Description is currently not available.
+
+ Cookie
+vy8p7s2m
+ Duration
+5 days
+ Description
+Description is currently not available.
+
+ Cookie
+ptc
+ Duration
+2 years
+ Description
+No description available.
+
+ Cookie
+zalb_2ebb1802fb
+ Duration
+session
+ Description
+Description is currently not available.
+
+ Cookie
+crmcsr
+ Duration
+session
+ Description
+No description available.
+
+ Cookie
+clogcsr
+ Duration
+session
+ Description
+Description is currently not available.
+
+ Cookie
+zalb_e188bc05fe
+ Duration
+session
+ Description
+Description is currently not available.
+
+Reject All Save My Preferences Accept All
+Powered by 
+ 
+DONATE
+ [](https:www.cifor-icraf.org)
+ About
+ Board of Trustees
+ Leadership
+ Research staff
+ Our network
+ Partners
+ Work with us
+ Institutional documents
+ About CIFOR
+ About ICRAF
+ Ethics and compliance reporting portal
+ Contact us
+ Our work
+ Locations
+ AFRICA
+ Benin
+ Burkina Faso
+ Cameroon
+ Cote DIvoire
+ DRC
+ Ethiopia
+ Kenya
+ Malawi
+ Mali
+ Rwanda
+ Tanzania
+ Uganda
+ Zambia
+ ASIA
+ Bangladesh
+ China
+ India
+ Indonesia
+ Kyrgyzstan
+ Nepal
+ Philippines
+ Sri Lanka
+ Viet Nam
+ LATIN AMERICA
+ Brazil
+ Peru
+ EUROPE
+ CIFOR-ICRAF Europe office
+ Knowledge
+ Publications
+ News
+ Videos
+ Presentations
+ Datasets
+ Podcasts
+ Photos
+ News
+ Agroforestry World News
+ Features
+ Social media
+ Corporate news
+ Press releases
+ Project news
+ Events
+ Press
+
+Menu 
+ 
+ Our work
+ Locations
+ Knowledge
+ News
+ Events
+ Press
+
+Search 
+EN 
+ English
+ Español
+ Français
+ Indonesia
+ Português
+
+Menu 
+ About
+ EN   
+ English
+ Español
+ Français
+ Indonesia
+ Português
+ [](https:www.cifor-icraf.org search)
+ DONATE
+
+Search 
+Learn more about CIFOR-ICRAF
+Pencarian semua acara
+Pencarian semua berita
+Parcourir tous les évènements
+Pencarian semua acara
+Parcourir toutes les actualités
+Ver todas las noticias
+Explorar todos los eventos
+Pencarian semua berita
+Learn more about CIFOR-ICRAF
+Africa 
+ Benin
+ Burkina Faso
+ Cameroon
+ Cote DIvoire
+ DRC
+ Ethiopia
+ Kenya
+ Malawi
+ Mali
+ Rwanda
+ Tanzania
+ Uganda
+ Zambia
+
+Asia 
+ Bangladesh
+ China
+ India
+ Indonesia
+ Nepal
+ Papua New Guinea
+ Philippines
+ Sri Lanka
+ Viet Nam
+
+Latin America 
+ Brazil
+ Peru
+
+Europe 
+ CIFOR-ICRAF Europe office
+
+CIFORICRAF publishes over 750 publications every year on agroforestry, forests and climate change, landscape restoration, rights, forest policy and much more  in multiple languages.
+Explore our knowledge
+Browse CIFORICRAFs published research in a wide range of formats, all of which are available for free online.
+ [](https:www.cifor-icraf.orgknowledgepublications)
+ [](https:www.cifor-icraf.orgknowledgenews)
+ [](https:www.cifor-icraf.orgknowledgevideos)
+ [](https:www.cifor-icraf.orgknowledgepresentations)
+ [](https:www.cifor-icraf.orgknowledgedatasets)
+
+ [](https:www.cifor-icraf.orgknowledgepodcasts)
+ [](https:www.cifor-icraf.orgknowledgephotos)
+
+Explore upcoming and past events across the globe and online, whether hosted by CIFOR-ICRAF or attended by our researchers.
+UPCOMING EVENTS
+
+Browse all events
+
+ Agroforestry World News
+ Features
+ Social media
+ Corporate news
+ Press releases
+ Project news
+ News update
+
+Latest news
+Science needs clear communication channels to cut through the noise, if research is to have any impact. CIFOR-ICRAF is as passionate about sharing our knowledge as we are in generating it.
+
+Browse all news
+Learn more about CIFOR-ICRAF
+ 
+FORESTS TREES PEOPLE PLANET
+CIFOR-ICRAF
+ About
+ Board of Trustees
+ Leadership
+ Research staff
+ Our network
+ Partners
+ Work with us
+ Institutional documents
+ About CIFOR
+ About ICRAF
+ Ethics and compliance reporting portal
+ Contact us
+ Our work
+ Locations
+ AFRICA
+ Benin
+ Burkina Faso
+ Cameroon
+ Cote DIvoire
+ DRC
+ Ethiopia
+ Kenya
+ Malawi
+ Mali
+ Rwanda
+ Tanzania
+ Uganda
+ Zambia
+ ASIA
+ Bangladesh
+ China
+ India
+ Indonesia
+ Kyrgyzstan
+ Nepal
+ Philippines
+ Sri Lanka
+ Viet Nam
+ LATIN AMERICA
+ Brazil
+ Peru
+ EUROPE
+ CIFOR-ICRAF Europe office
+ Knowledge
+ Publications
+ News
+ Videos
+ Presentations
+ Datasets
+ Podcasts
+ Photos
+ News
+ Agroforestry World News
+ Features
+ Social media
+ Corporate news
+ Press releases
+ Project news
+ Events
+ Press
+
+FORESTS TREES PEOPLE PLANET
+CIFOR-ICRAF
+
+Show knowledge products in all languages 
+Publications
+ Browse all 
+Get the CIFOR-ICRAF publications update
+CIFORICRAF publishes over 750 publications every year on agroforestry, forests and climate change, landscape restoration, rights, forest policy and much more  in multiple languages.
+Subscribe
+
+Browse all 
+Our work
+CIFOR-ICRAF focuses on five global issues where trees can make a difference:
+FIVE GLOBAL CHALLENGES
+Biodiversity  Climate  Food  Value chains  Equity 
+Explore our work on specific topics and themes
+Latest news
+ Browse all 
+Indonesias mangrove conservation could hold the key to blue carbon trading 
+ 
+News 
+Progress in agroecology: Tales from the frontiers of transition 
+27 Oct 2025
+ 
+News 
+Sweet returns: How cacao and oil palm farmers in Southeast Asia are reshaping their landscapes 
+24 Oct 2025
+ 
+News 
+What does co-creation really mean for agroecological transitions? 
+22 Oct 2025
+ 
+News 
+Connecting cutting-edge research with policy and practice for forests and communities 
+20 Oct 2025
+Browse all 
+ANNUAL REPORT 2024
+In the Spotlight
+_Presenting CIFOR-ICRAFs ongoing commitment to resilient tree, forest, and agroforestry landscapes_
+Learn more
+Videos
+ Browse all 
+GLF Climate 2025 Hybrid Conference at COP30: A New Vision for Earth (OFFICIAL TRAILER) 
+
+Browse all 
+Get the CIFOR-ICRAF news update
+Subscribe to our newsletter to stay up-to-date on insights, events and new solutions. 
+You can unsubscribe at any time. 
+Sign up
+Podcasts
+ Browse all 
+
+Browse all 
+Global Landscapes Forum
+Events
+EVENT
+A climate COP in the heart of the Amazon: CIFOR-ICRAF at UNFCCC COP30 More 
+
+Event
+RESSAC Programme International Scientific Symposium - Central African Forest Ecosystems 
+25 - 26 Nov 2025. Libreville, Gabon
+ 
+EVENT
+High Level Discussion Workshop 
+27 Nov 2025. Libreville, Gabon
+Browse all
+Donate
+ 
+Bosnian coal miners are planting trees  for energy, jobs and clean air
+Learn more
+ 
+A million trees to energize DR Congos rainforest
+Learn more
+ 
+Fruit trees for micronutrient-rich diets in Zambia
+Learn more
+WORK WITH US
+Consultancy
+Consultancy - Capacity Building of GCF Knuckles project
+Sri Lanka
+ Apply now 
+Deadline: 08 Nov 2025
+Local position
+Finance Officer - Grants
+New Delhi, India
+ Apply now 
+Deadline: 10 Nov 2025
+Global position
+Country Director, Cote dIvoire
+Abidjan, Cote DIvoire (Ivory Coast)
+ Apply now 
+Deadline: 30 Nov 2025
+Internationally recruited staff (irs)
+General Call for Applications - Science Roster
+Various Locations
+ Apply now 
+Deadline: 01 Jan 2027
+Consultancy
+General Call for Applications - Consultant Roster
+Various locations
+ Apply now 
+Deadline: 01 Jan 2027
+Browse all
+DISCOVER MORE
+CIFOR-ICRAF and its network deliver transformative science, helping to shift our global trajectory towards a future with healthy, biodiverse and productive landscapes. 
+
+Center for International Forestry Research (CIFOR)
+Learn more 
+Center for International Forestry Research (CIFOR)
+The Center for International Forestry Research is a non-profit scientific research organization that conducts research on the use and management of forests with a focus on tropical forests in developing countries.
+Learn more 
+
+World Agroforestry (ICRAF)
+Learn more 
+World Agroforestry (ICRAF)
+World Agroforestry is an international institute headquartered in Nairobi, Kenya, and founded in 1978 as International Council for Research in Agroforestry. The Centre specializes in the sustainable management, protection and regulation of tropical rainforest and natural reserves.
+Learn more 
+
+Global Landscapes Forum
+globallandscapesforum.org
+Global Landscapes Forum
+globallandscapesforum.org
+The Global Landscapes Forum is a multi-stakeholder forum dedicated to promoting the landscape approach.
+
+Resilient Landscapes
+resilient-landscapes.org
+Resilient Landscapes
+resilient-landscapes.org
+Resilient Landscapes is an innovative new venture created by CIFOR-ICRAF to radically transform land use and agricultural supply chains by serving as the nexus between science and businesses, finance, governments and civil society across forest and agroforestry landscapes.
+Engage with us
+ 
+For general inquiries
+The Center for International Forestry Research and World Agroforestry (CIFOR-ICRAF) harnesses the power of trees, forests and agroforestry landscapes to address the most pressing global challenges of our time  biodiversity loss, climate change, food security, livelihoods and inequity. CIFOR and ICRAF are CGIAR Research Centers.
+For general inquiries:
+For media inquiries contact:
+Content
+ Home
+ About us
+ Research
+ News
+ Events
+
+Research
+ Five global challenges
+ Themes
+ Topics
+ Innovations
+
+GLOBAL OFFICES
+Bangladesh, Benin, Brazil, Burkina Faso, Cameroon, China, Côte dIvoire, Democratic Republic of the Congo, Ethiopia, Germany, India, Indonesia, Kenya, Kyrgyzstan, Malawi, Mali, Nepal, Peru, Philippines, Rwanda, Sri Lanka, Tanzania, Uganda, Viet Nam, Zambia
+Subscribe to the CIFOR-ICRAF news update
+Sign up
+ 2025 Center for International Forestry Research (CIFOR) and World Agroforestry (ICRAF)  CIFOR and ICRAF are CGIAR Research Centers  Privacy notice of CIFOR-ICRAF

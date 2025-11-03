@@ -1,7 +1,7 @@
 ================================================================================
 SOURCE: defra
 URL: https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs
-SCRAPED: 2025-11-03 01:10:28
+SCRAPED: 2025-11-03 15:07:13
 CONTENT LENGTH: 10465 characters
 ================================================================================
 

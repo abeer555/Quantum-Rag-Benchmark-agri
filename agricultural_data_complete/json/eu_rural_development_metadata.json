@@ -1,0 +1,9 @@
+{
+  "source_name": "eu_rural_development",
+  "url": "https://agriculture.ec.europa.eu/cap-my-country/cap-strategic-plans_en",
+  "scraped_at": "2025-11-03T15:08:02.741377",
+  "content_length": 11896,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/eu_rural_development.txt"
+}

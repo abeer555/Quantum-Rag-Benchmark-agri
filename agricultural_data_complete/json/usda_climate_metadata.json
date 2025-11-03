@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_climate",
+  "url": "https://www.usda.gov/topics/climate-solutions",
+  "scraped_at": "2025-11-03T15:03:33.456904",
+  "content_length": 34068,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_climate.txt"
+}

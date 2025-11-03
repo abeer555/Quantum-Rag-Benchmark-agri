@@ -1,8 +1,8 @@
 {
   "source_name": "precision_ag",
   "url": "https://www.precisionag.com/",
-  "scraped_at": "2025-11-03T01:11:53.854491",
-  "content_length": 4951,
+  "scraped_at": "2025-11-03T15:12:49.113918",
+  "content_length": 4924,
   "success": true,
   "links_count": 2,
   "txt_file": "agricultural_data_complete/txt/precision_ag.txt"

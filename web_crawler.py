@@ -14,8 +14,9 @@ from crawl4ai.extraction_strategy import LLMExtractionStrategy, JsonCssExtractio
 from crawl4ai.chunking_strategy import RegexChunking
 
 # Comprehensive agricultural data sources from trusted organizations
+# EXPANDED DATASET for better complexity analysis
 AGRICULTURAL_SOURCES = {
-    # International Organizations
+    # International Organizations - FAO (Expanded)
     "fao_home": "https://www.fao.org/home/en",
     "fao_statistics": "https://www.fao.org/statistics/en/",
     "fao_news": "https://www.fao.org/news/en/",
@@ -26,8 +27,13 @@ AGRICULTURAL_SOURCES = {
     "fao_water": "https://www.fao.org/land-water/en/",
     "fao_fisheries": "https://www.fao.org/fishery/en/",
     "fao_forestry": "https://www.fao.org/forestry/en/",
+    "fao_family_farming": "https://www.fao.org/family-farming/en/",
+    "fao_food_security": "https://www.fao.org/food-security/en/",
+    "fao_nutrition": "https://www.fao.org/nutrition/en/",
+    "fao_gender": "https://www.fao.org/gender/en/",
+    "fao_rural_development": "https://www.fao.org/rural-development/en/",
     
-    # US Government - USDA
+    # US Government - USDA (Expanded)
     "usda_farming": "https://www.usda.gov/topics/farming",
     "usda_crops": "https://www.usda.gov/topics/crops",
     "usda_livestock": "https://www.usda.gov/topics/livestock",
@@ -36,48 +42,123 @@ AGRICULTURAL_SOURCES = {
     "usda_organic": "https://www.usda.gov/topics/organic",
     "usda_ers": "https://www.ers.usda.gov/",
     "usda_nass": "https://www.nass.usda.gov/",
+    "usda_biotechnology": "https://www.usda.gov/topics/biotechnology",
+    "usda_food_nutrition": "https://www.usda.gov/topics/food-and-nutrition",
+    "usda_trade": "https://www.usda.gov/topics/trade",
+    "usda_rural": "https://www.usda.gov/topics/rural",
+    "usda_forestry": "https://www.usda.gov/topics/forestry",
+    "usda_climate": "https://www.usda.gov/topics/climate-solutions",
     
-    # World Bank
+    # World Bank (Expanded)
     "worldbank_agriculture": "https://www.worldbank.org/en/topic/agriculture",
     "worldbank_food_security": "https://www.worldbank.org/en/topic/agriculture/brief/food-security-and-covid-19",
+    "worldbank_climate_smart": "https://www.worldbank.org/en/topic/climate-smart-agriculture",
+    "worldbank_rural_dev": "https://www.worldbank.org/en/topic/rural-development",
     
-    # Research Institutions
+    # Research Institutions - CGIAR Centers (Expanded)
     "cgiar": "https://www.cgiar.org/",
     "cgiar_research": "https://www.cgiar.org/research/",
     "ifpri": "https://www.ifpri.org/",
     "cimmyt": "https://www.cimmyt.org/",
+    "cimmyt_wheat": "https://www.cimmyt.org/work/wheat/",
+    "cimmyt_maize": "https://www.cimmyt.org/work/maize/",
     "irri": "https://www.irri.org/",
+    "irri_rice_knowledge": "https://www.irri.org/rice-knowledge",
     "icrisat": "https://www.icrisat.org/",
+    "icrisat_dryland": "https://www.icrisat.org/dryland-cereals/",
+    "worldfish": "https://www.worldfishcenter.org/",
+    "ilri": "https://www.ilri.org/",
+    "cifor": "https://www.cifor-icraf.org/",
+    "bioversity": "https://www.bioversityinternational.org/",
     
-    # UK Government
+    # UK Government (Expanded)
     "defra": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
     "defra_farming": "https://www.gov.uk/government/policies/farming",
+    "defra_food_farming": "https://www.gov.uk/topic/farming-food-grants-payments",
+    "uk_agriculture_horticulture": "https://www.gov.uk/topic/environmental-management/agriculture-horticulture",
     
-    # EU Agriculture
+    # EU Agriculture (Expanded)
     "eu_agriculture": "https://agriculture.ec.europa.eu/",
     "eu_cap": "https://agriculture.ec.europa.eu/common-agricultural-policy_en",
+    "eu_farming": "https://agriculture.ec.europa.eu/farming_en",
+    "eu_rural_development": "https://agriculture.ec.europa.eu/cap-my-country/cap-strategic-plans_en",
+    "eu_organic": "https://agriculture.ec.europa.eu/farming/organic-farming_en",
     
-    # Australia
+    # Australia (Expanded)
     "australia_agriculture": "https://www.agriculture.gov.au/",
     "csiro_agriculture": "https://www.csiro.au/en/research/animals-and-agriculture",
+    "australia_crops": "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/crops",
+    "australia_livestock": "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/livestock",
     
-    # India
+    # Canada
+    "canada_agriculture": "https://agriculture.canada.ca/en",
+    "canada_crops": "https://agriculture.canada.ca/en/sector/crops",
+    "canada_livestock": "https://agriculture.canada.ca/en/sector/livestock",
+    
+    # India (Expanded)
     "icar": "https://icar.org.in/",
+    "india_agriculture_ministry": "https://agricoop.nic.in/",
+    
+    # China
+    "china_agriculture": "http://www.moa.gov.cn/",
+    
+    # Brazil
+    "brazil_embrapa": "https://www.embrapa.br/en/home",
     
     # Agricultural Science Journals & Databases
     "agris_fao": "https://agris.fao.org/",
+    "nature_food": "https://www.nature.com/nfood/",
     
-    # Climate & Agriculture
+    # Climate & Agriculture (Expanded)
     "ipcc_agriculture": "https://www.ipcc.ch/",
+    "climate_agriculture_alliance": "https://www.wri.org/climate/agriculture",
     
-    # Sustainable Agriculture
+    # Sustainable Agriculture (Expanded)
     "sustainable_ag_research": "https://www.sustainableagriculture.net/",
+    "regenerative_agriculture": "https://regenerationinternational.org/",
+    "organic_farming": "https://www.ifoam.bio/",
     
-    # Precision Agriculture
+    # Precision Agriculture (Expanded)
     "precision_ag": "https://www.precisionag.com/",
+    "farm_technology": "https://www.agriculture.com/farm-management/technology",
     
-    # Agricultural Technology
+    # Agricultural Technology & Innovation
     "agfunder": "https://agfundernews.com/",
+    "agtech_news": "https://www.agtechinnovator.com/",
+    "future_farming": "https://www.futurefarming.com/",
+    
+    # Soil Science
+    "soil_science_society": "https://www.soils.org/",
+    "global_soil_partnership": "https://www.fao.org/global-soil-partnership/en/",
+    
+    # Water Management
+    "water_agriculture": "https://www.iwmi.cgiar.org/",
+    "irrigation_drainage": "https://www.icid.org/",
+    
+    # Seed & Genetics
+    "crop_trust": "https://www.croptrust.org/",
+    "seed_systems": "https://www.cabi.org/what-we-do/agriculture-and-biosecurity/seed-systems/",
+    
+    # Agricultural Economics
+    "agricultural_economics": "https://www.choicesmagazine.org/",
+    "farm_economics": "https://farmdocdaily.illinois.edu/",
+    
+    # Pest Management
+    "ipm_integrated": "https://www.ipmcenters.org/",
+    "pesticide_info": "https://npic.orst.edu/",
+    
+    # Livestock & Animal Science
+    "livestock_research": "https://www.ilri.org/research",
+    "animal_health": "https://www.woah.org/",
+    
+    # Agricultural Extension
+    "extension_agriculture": "https://www.extension.org/",
+    
+    # Food Systems
+    "food_systems": "https://www.un.org/en/food-systems-summit",
+    
+    # Agroforestry
+    "agroforestry": "https://www.worldagroforestry.org/",
 }
 
 class AgricultureDataScraper:

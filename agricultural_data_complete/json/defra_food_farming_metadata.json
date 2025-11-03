@@ -1,0 +1,9 @@
+{
+  "source_name": "defra_food_farming",
+  "url": "https://www.gov.uk/topic/farming-food-grants-payments",
+  "scraped_at": "2025-11-03T15:07:24.914436",
+  "content_length": 20323,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/defra_food_farming.txt"
+}

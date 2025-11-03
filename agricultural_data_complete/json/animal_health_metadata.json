@@ -1,0 +1,9 @@
+{
+  "source_name": "animal_health",
+  "url": "https://www.woah.org/",
+  "scraped_at": "2025-11-03T15:20:00.981010",
+  "content_length": 23088,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/animal_health.txt"
+}

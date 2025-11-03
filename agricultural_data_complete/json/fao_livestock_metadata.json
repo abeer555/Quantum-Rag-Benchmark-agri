@@ -1,8 +1,8 @@
 {
   "source_name": "fao_livestock",
   "url": "https://www.fao.org/animal-production/en/",
-  "scraped_at": "2025-11-03T01:07:15.054934",
-  "content_length": 7063,
+  "scraped_at": "2025-11-03T15:00:14.483241",
+  "content_length": 7666,
   "success": true,
   "links_count": 2,
   "txt_file": "agricultural_data_complete/txt/fao_livestock.txt"

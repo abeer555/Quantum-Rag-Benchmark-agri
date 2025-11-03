@@ -1,0 +1,9 @@
+{
+  "source_name": "fao_family_farming",
+  "url": "https://www.fao.org/family-farming/en/",
+  "scraped_at": "2025-11-03T15:01:02.625686",
+  "content_length": 3629,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/fao_family_farming.txt"
+}

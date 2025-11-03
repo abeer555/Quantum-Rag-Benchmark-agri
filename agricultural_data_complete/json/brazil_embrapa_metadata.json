@@ -1,0 +1,9 @@
+{
+  "source_name": "brazil_embrapa",
+  "url": "https://www.embrapa.br/en/home",
+  "scraped_at": "2025-11-03T15:10:42.737056",
+  "content_length": 5181,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/brazil_embrapa.txt"
+}

@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: icrisat
 URL: https://www.icrisat.org/
-SCRAPED: 2025-11-03 01:10:20
-CONTENT LENGTH: 8745 characters
+SCRAPED: 2025-11-03 15:06:06
+CONTENT LENGTH: 8815 characters
 ================================================================================
 
 Services
@@ -24,6 +24,7 @@ Dryland Academy
 Careers
 Services 
 Genotyping and Sequencing Rapid Generation Advancement Phenotyping Grain Quality Assessment Soil and Water Analysis Food Safety  Aflatoxin Testing Business Incubation Seed Processing Order Germplasm
+ Select Language French Portuguese (Brazil) Powered by 
 
  About
  About ICRISAT
@@ -243,9 +244,6 @@ News
 29 Oct 2025
 SBI Foundation Joins Hands with UAS Raichur and ICRISAT to Launch SMA...
 
-23 Oct 2025
-World Food Day 16 October: A Hungry World Knows No Borders
-
 16 Oct 2025
 World Food Day 16 October: A Hungry World Knows No Borders
 
@@ -255,8 +253,11 @@ Groundnut Breeding at ICRISAT Delivers Strong Yield Gains: Genetic Gai...
 03 Oct 2025
 ICRISAT Brings Frontier Agricultural Science to the Caribbean in Landm...
 
-03 Oct 2025
-ICRISAT Brings Frontier Agricultural Science to the Caribbean in Landm...
+30 Sep 2025
+ICRISAT and Indias Ministry of External Affairs Empower Small Busines...
+
+24 Sep 2025
+Breakthrough Discovery Offers Hope Against Devastating Groundnut Disea...
  View More News 
 Social
  We congratulate all awardees! 

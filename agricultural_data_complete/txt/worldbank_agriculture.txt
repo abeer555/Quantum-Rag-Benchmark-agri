@@ -1,11 +1,11 @@
 ================================================================================
 SOURCE: worldbank_agriculture
 URL: https://www.worldbank.org/en/topic/agriculture
-SCRAPED: 2025-11-03 01:09:09
-CONTENT LENGTH: 8690 characters
+SCRAPED: 2025-11-03 15:03:44
+CONTENT LENGTH: 9574 characters
 ================================================================================
 
-!trending icon Trending Data 
+!trending icon Trending Data 66 of refugees have been displaced for at least five years 
 News  Events 
  Press Releases
  Events
@@ -399,6 +399,13 @@ Repurposing Agricultural Policies and Support
 
 Blogs
 !Blog Loading
+ Ademola Braimoh, Amanullah Alamzai, Najumuddin Najum Oct 31, 2025
+ Growing Hope and Jobs: A roadmap to sustainably revitalize Afghanistans agriculture and food systems 
+ Shane Sela, Iryna Sikora Oct 22, 2025
+ Coffee beans meet green rules: Reconciling climate and development goals 
+ World Bank Data Team Oct 21, 2025
+ World Development Indicators, October 2025 update: New data on poverty, food insecurity, financial inclusion,  the 2025 edition of the World Bank Group Scorecard 
+
 View All Blogs View All Blogs
 Experts
 Shobha Shetty
@@ -416,8 +423,6 @@ Whats New in Food and Agriculture
 View All News
  
 Latest Events
- !loader image
-
 View All Events
 Programs and Trust Funds
  !The World Bank
@@ -446,5 +451,33 @@ Nicolas Douillet
 
 Washington DC
 Nugroho N. Sunjoyo 
+
+ IBRD
+ IDA
+ ICSID
+
+ Who we are
+ News
+ Careers
+ Contact
+
+ Countries
+ Topics
+ Project and Operations
+ Research and Publications
+
+ Events
+ Data
+ Knowledge Academy
+ Results Scorecard
+
+Stay current with our latest data  insights
+Sign Up
+ 2025 World Bank Group, All Rights Reserved. 
+ Legal
+ Privacy Notice
+ Site Accessibility
+ Access to Information
+ Scam Alert
 
 This site uses cookies to optimize functionality and give you the best possible experience. If you continue to navigate this website beyond this page, cookies will be placed on your browser. To learn more about cookies, click here.

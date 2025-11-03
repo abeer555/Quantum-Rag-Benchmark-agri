@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: fao_home
 URL: https://www.fao.org/home/en
-SCRAPED: 2025-11-03 01:06:40
-CONTENT LENGTH: 14461 characters
+SCRAPED: 2025-11-03 14:59:32
+CONTENT LENGTH: 14028 characters
 ================================================================================
 
 Discover 
@@ -14,31 +14,7 @@ English
 ------ 
 search  
  About FAO 
- About Us 
- Director-General 
- Organizational chart 
- Worldwide offices 
- Governing Bodies 
- Oversight Advisory Committee 
- FAO and the UN 
- FAO Terminology Portal 
- Meetings 
- Visit us 
- Partnerships 
- Ask FAO 
- Transparency and accountability 
-!Leadership
-Organizational chart
-!DG
-Director-General
-!Worldwide offices
-Worldwide offices
-Finance Committee
- 206th Session
-37 November 2025 
-
- 205th Session
-2728 October 2025
+Loading... 
  News 
  News 
  Stories 
@@ -136,12 +112,12 @@ Highlights
 Director-General
 
 News
-Gaza Strip: Ceasefire opens window for rehabilitation as over a third of cropland becomes accessible
-New FAO-UNOSAT analysis findings show increased damage to cropland, greenhouses, and agricultural wells
+FAO report: 1.7 billion people experience lower crop yields due to land degradation
+The State of Food and Agriculture 2025 report focuses on land degradation caused by human activities
 
 News
-FAO honours 28 Globally Important Agricultural Heritage Systems across 14 countries
-Award Ceremony celebrates communities preserving traditional knowledge, biodiversity and resilience for a food secure future
+Gaza Strip: Ceasefire opens window for rehabilitation as over a third of cropland becomes accessible
+New FAO-UNOSAT analysis findings show increased damage to cropland, greenhouses, and agricultural wells
 
 Mexico trip features visit to a GIAHS site, to CIMMYT, and bilateral meetings with high level government representatives
 Metapantle is a powerful example of long-term agricultural resilience in fragile mountain environments
@@ -379,7 +355,7 @@ Regional Office for Africa Regional Office for Asia and the Pacific Regional Off
  Data protection and privacy
  Scam Alert
  Report Misconduct
- Transparency and accountability
+  Transparency and accountability
 
  FAO 2025
  

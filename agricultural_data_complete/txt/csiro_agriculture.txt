@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: csiro_agriculture
 URL: https://www.csiro.au/en/research/animals-and-agriculture
-SCRAPED: 2025-11-03 01:11:08
-CONTENT LENGTH: 2877 characters
+SCRAPED: 2025-11-03 15:08:34
+CONTENT LENGTH: 2927 characters
 ================================================================================
 
 Blog icon
@@ -27,11 +27,11 @@ Quick links
 Finding the page
 404 - Page not found
 Hold on while we try to locate the missing page
-The page you are looking for may have been disconnected
+This page may be lost at sea, if only we had the RV Investigator to help find it
 Let us help you find what youre after 
 Search
 Tried searching but still no luck? Contact us
-The page you are looking for may have been disconnected
+This page may be lost at sea, if only we had the RV Investigator to help find it
 
 We deliver the science Australians need for the nation they want  productive, sustainable, healthy and secure. 
  Access to information

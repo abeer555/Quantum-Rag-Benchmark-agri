@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: fao_forestry
 URL: https://www.fao.org/forestry/en/
-SCRAPED: 2025-11-03 01:08:04
-CONTENT LENGTH: 8014 characters
+SCRAPED: 2025-11-03 15:00:52
+CONTENT LENGTH: 7985 characters
 ================================================================================
 
 Discover 
@@ -10,9 +10,6 @@ About FAO News Multimedia Main topics Statistics Members Publications
 English 
 العربية 中文 Français Русский Español
 [](https:www.fao.orgforestryen) [](https:www.fao.orgforestryencollapseSearchBox)
-  
------- 
-search  
  1. Home
 
 Share 
@@ -171,5 +168,3 @@ Regional Office for Africa Regional Office for Asia and the Pacific Regional Off
   Transparency and accountability
 
  FAO 2025
- 
-------

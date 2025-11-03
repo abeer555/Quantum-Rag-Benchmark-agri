@@ -1,0 +1,9 @@
+{
+  "source_name": "cimmyt_wheat",
+  "url": "https://www.cimmyt.org/work/wheat/",
+  "scraped_at": "2025-11-03T15:05:15.824320",
+  "content_length": 1359,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/cimmyt_wheat.txt"
+}

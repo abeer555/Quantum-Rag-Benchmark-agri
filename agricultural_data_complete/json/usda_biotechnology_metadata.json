@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_biotechnology",
+  "url": "https://www.usda.gov/topics/biotechnology",
+  "scraped_at": "2025-11-03T15:03:02.333748",
+  "content_length": 22881,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_biotechnology.txt"
+}

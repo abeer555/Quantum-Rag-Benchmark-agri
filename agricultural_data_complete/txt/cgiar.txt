@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: cgiar
 URL: https://www.cgiar.org/
-SCRAPED: 2025-11-03 01:09:28
-CONTENT LENGTH: 8449 characters
+SCRAPED: 2025-11-03 15:04:34
+CONTENT LENGTH: 8661 characters
 ================================================================================
 
 Impact 
@@ -184,6 +184,26 @@ Text goes here
 X
 KEY Events 
 
+!CGIAR  COP30 Image
+CGIAR  COP30
+Nov 
+10th
+- 
+21st
+Belém
+View Event
+Text goes here 
+X
+!Food  Agriculture Pavilion COP30 Image
+Food  Agriculture Pavilion COP30
+Nov 
+10th
+- 
+21st
+Belem
+View Event
+Text goes here 
+X
 Show More
 Text goes here 
 X

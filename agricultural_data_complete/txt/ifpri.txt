@@ -1,8 +1,8 @@
 ================================================================================
 SOURCE: ifpri
 URL: https://www.ifpri.org/
-SCRAPED: 2025-11-03 01:09:45
-CONTENT LENGTH: 15335 characters
+SCRAPED: 2025-11-03 15:04:55
+CONTENT LENGTH: 15847 characters
 ================================================================================
 
 Skip to content
@@ -254,7 +254,7 @@ in the field of Agricultural Economics
 20,000
 research outputs
 Meet a Researcher
-Alka Chauhan is a senior researcher at IFPRI.
+Durjoy Dey is a Research Analyst in the Development Strategies and Governance Unit, based in Dhaka. His research interests are in public health, agriculture, climate change, and machine learning. Before joining IFPRI, Durjoy worked with the International Centre for Diarrhoeal Disease Research, Bangladesh (ICDDR,B), where he worked on projects related to gender, agrifood systems, climate change, and machine learning. Durjoy is primarily a quantitative researcher who is interested in gathering evidence to aid policy formulation. He received both his BSc
 more
 
 From our video channel

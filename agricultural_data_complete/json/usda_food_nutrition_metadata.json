@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_food_nutrition",
+  "url": "https://www.usda.gov/topics/food-and-nutrition",
+  "scraped_at": "2025-11-03T15:03:08.120858",
+  "content_length": 23211,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_food_nutrition.txt"
+}

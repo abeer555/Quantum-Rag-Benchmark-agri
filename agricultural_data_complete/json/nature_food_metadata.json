@@ -1,0 +1,9 @@
+{
+  "source_name": "nature_food",
+  "url": "https://www.nature.com/nfood/",
+  "scraped_at": "2025-11-03T15:11:06.433592",
+  "content_length": 1608,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/nature_food.txt"
+}

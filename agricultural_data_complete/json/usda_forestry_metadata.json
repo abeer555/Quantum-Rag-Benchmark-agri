@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_forestry",
+  "url": "https://www.usda.gov/topics/forestry",
+  "scraped_at": "2025-11-03T15:03:26.217256",
+  "content_length": 20413,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_forestry.txt"
+}

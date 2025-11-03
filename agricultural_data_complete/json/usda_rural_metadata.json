@@ -1,0 +1,9 @@
+{
+  "source_name": "usda_rural",
+  "url": "https://www.usda.gov/topics/rural",
+  "scraped_at": "2025-11-03T15:03:20.522382",
+  "content_length": 23584,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/usda_rural.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "source_name": "fao_nutrition",
+  "url": "https://www.fao.org/nutrition/en/",
+  "scraped_at": "2025-11-03T15:01:30.777207",
+  "content_length": 7571,
+  "success": true,
+  "links_count": 2,
+  "txt_file": "agricultural_data_complete/txt/fao_nutrition.txt"
+}

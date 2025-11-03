@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-11-03T14:56:40.704257",
+  "has_quantum": true,
+  "has_bleu": true,
+  "dataset_sizes": [
+    5,
+    10,
+    20,
+    30,
+    50
+  ],
+  "results": [
+    {
+      "dataset_size": 5,
+      "num_chunks": 15,
+      "classical": {
+        "index_time": 0.21816706657409668,
+        "avg_retrieval_time": 0.008571410179138183,
+        "avg_similarity": 0.40607613406028253,
+        "avg_bleu_score": 0.0
+      },
+      "quantum": {
+        "index_time": 0.18847179412841797,
+        "avg_retrieval_time": 0.00815255641937256,
+        "avg_similarity": 0.42071570134275166,
+        "avg_bleu_score": 0.0
+      }
+    },
+    {
+      "dataset_size": 10,
+      "num_chunks": 26,
+      "classical": {
+        "index_time": 0.26650094985961914,
+        "avg_retrieval_time": 0.0055064201354980465,
+        "avg_similarity": 0.43264714357831763,
+        "avg_bleu_score": 0.0
+      },
+      "quantum": {
+        "index_time": 0.32665038108825684,
+        "avg_retrieval_time": 0.008500432968139649,
+        "avg_similarity": 0.4452614919021591,
+        "avg_bleu_score": 0.0
+      }
+    },
+    {
+      "dataset_size": 20,
+      "num_chunks": 71,
+      "classical": {
+        "index_time": 0.6815769672393799,
+        "avg_retrieval_time": 0.005735659599304199,
+        "avg_similarity": 0.4568081021491442,
+        "avg_bleu_score": 0.0
+      },
+      "quantum": {
+        "index_time": 0.8780252933502197,
+        "avg_retrieval_time": 0.008762097358703614,
+        "avg_similarity": 0.6964038398373621,
+        "avg_bleu_score": 0.0
+      }
+    },
+    {
+      "dataset_size": 30,
+      "num_chunks": 102,
+      "classical": {
+        "index_time": 0.958153486251831,
+        "avg_retrieval_time": 0.005807805061340332,
+        "avg_similarity": 0.4631957898347908,
+        "avg_bleu_score": 0.0
+      },
+      "quantum": {
+        "index_time": 1.3051626682281494,
+        "avg_retrieval_time": 0.008839106559753418,
+        "avg_similarity": 0.7003217022140396,
+        "avg_bleu_score": 0.0
+      }
+    },
+    {
+      "dataset_size": 38,
+      "num_chunks": 127,
+      "classical": {
+        "index_time": 1.2205357551574707,
+        "avg_retrieval_time": 0.0060550451278686525,
+        "avg_similarity": 0.4737876241998216,
+        "avg_bleu_score": 0.0
+      },
+      "quantum": {
+        "index_time": 1.680232286453247,
+        "avg_retrieval_time": 0.009145259857177734,
+        "avg_similarity": 0.7040857945411789,
+        "avg_bleu_score": 0.0
+      }
+    }
+  ]
+}

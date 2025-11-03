@@ -1,0 +1,306 @@
+{
+  "timestamp": "2025-11-03T14:28:25.184429",
+  "num_queries": 10,
+  "num_chunks": 127,
+  "top_k": 5,
+  "has_quantum": true,
+  "queries": [
+    {
+      "query": "What are the best practices for organic farming?",
+      "classical": {
+        "retrieval_time": 0.016200780868530273,
+        "avg_similarity": 0.44940189170855593,
+        "diversity": 1.0,
+        "top_sources": [
+          "usda_organic",
+          "eu_cap",
+          "sustainable_ag_research"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.008128166198730469,
+        "avg_similarity": 0.621445917397895,
+        "diversity": 1.0,
+        "top_sources": [
+          "icrisat",
+          "usda_organic",
+          "fao_livestock"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.6,
+        "speedup": 1.9931655520356681,
+        "score_improvement_pct": 38.282888626760005
+      }
+    },
+    {
+      "query": "How can I improve soil fertility?",
+      "classical": {
+        "retrieval_time": 0.012176275253295898,
+        "avg_similarity": 0.37374114950960713,
+        "diversity": 0.6,
+        "top_sources": [
+          "fao_soils",
+          "cimmyt",
+          "icrisat"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.007993936538696289,
+        "avg_similarity": 0.6190010755466656,
+        "diversity": 0.6,
+        "top_sources": [
+          "fao_soils",
+          "cimmyt",
+          "cimmyt"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.8,
+        "speedup": 1.523188881266963,
+        "score_improvement_pct": 65.62293885992182
+      }
+    },
+    {
+      "query": "What are the main crops produced globally?",
+      "classical": {
+        "retrieval_time": 0.0056955814361572266,
+        "avg_similarity": 0.44478660480902227,
+        "diversity": 0.8,
+        "top_sources": [
+          "fao_livestock",
+          "icrisat",
+          "icrisat"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.00951385498046875,
+        "avg_similarity": 0.6936258607020906,
+        "diversity": 0.8,
+        "top_sources": [
+          "icrisat",
+          "cimmyt",
+          "icrisat"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.6,
+        "speedup": 0.5986617882919005,
+        "score_improvement_pct": 55.94576212561804
+      }
+    },
+    {
+      "query": "How does climate change affect agriculture?",
+      "classical": {
+        "retrieval_time": 0.006219387054443359,
+        "avg_similarity": 0.46249349021235575,
+        "diversity": 1.0,
+        "top_sources": [
+          "icrisat",
+          "usda_research",
+          "ifpri"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.010182619094848633,
+        "avg_similarity": 0.6813800840512864,
+        "diversity": 0.8,
+        "top_sources": [
+          "icrisat",
+          "ipcc_agriculture",
+          "ipcc_agriculture"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.8,
+        "speedup": 0.6107846121426397,
+        "score_improvement_pct": 47.32749724508078
+      }
+    },
+    {
+      "query": "What is sustainable agriculture?",
+      "classical": {
+        "retrieval_time": 0.008077144622802734,
+        "avg_similarity": 0.6030729553324423,
+        "diversity": 1.0,
+        "top_sources": [
+          "usda_livestock",
+          "usda_conservation",
+          "usda_crops"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.007918119430541992,
+        "avg_similarity": 0.7371296611161491,
+        "diversity": 1.0,
+        "top_sources": [
+          "usda_livestock",
+          "usda_conservation",
+          "usda_crops"
+        ]
+      },
+      "comparison": {
+        "overlap": 1.0,
+        "speedup": 1.020083707205444,
+        "score_improvement_pct": 22.228936747761864
+      }
+    },
+    {
+      "query": "How does irrigation impact crop yields?",
+      "classical": {
+        "retrieval_time": 0.006498098373413086,
+        "avg_similarity": 0.39780186734018996,
+        "diversity": 0.8,
+        "top_sources": [
+          "icrisat",
+          "cimmyt",
+          "icrisat"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.008276700973510742,
+        "avg_similarity": 0.6684729987433323,
+        "diversity": 1.0,
+        "top_sources": [
+          "icrisat",
+          "cimmyt",
+          "usda_livestock"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.4,
+        "speedup": 0.7851073023188824,
+        "score_improvement_pct": 68.04169452821381
+      }
+    },
+    {
+      "query": "What are the benefits of crop rotation?",
+      "classical": {
+        "retrieval_time": 0.006150960922241211,
+        "avg_similarity": 0.45955629778591633,
+        "diversity": 0.6,
+        "top_sources": [
+          "icrisat",
+          "icrisat",
+          "cimmyt"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.008455514907836914,
+        "avg_similarity": 0.6782944960570317,
+        "diversity": 0.6,
+        "top_sources": [
+          "ifpri",
+          "icrisat",
+          "cimmyt"
+        ]
+      },
+      "comparison": {
+        "overlap": 1.0,
+        "speedup": 0.7274495981954039,
+        "score_improvement_pct": 47.59769354156785
+      }
+    },
+    {
+      "query": "How can farmers adapt to water scarcity?",
+      "classical": {
+        "retrieval_time": 0.005774974822998047,
+        "avg_similarity": 0.44341892651541254,
+        "diversity": 1.0,
+        "top_sources": [
+          "usda_livestock",
+          "usda_conservation",
+          "usda_crops"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.00745844841003418,
+        "avg_similarity": 0.6595132070820573,
+        "diversity": 1.0,
+        "top_sources": [
+          "fao_water",
+          "icrisat",
+          "fao_forestry"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.0,
+        "speedup": 0.7742863536105872,
+        "score_improvement_pct": 48.733661926614595
+      }
+    },
+    {
+      "query": "What role does livestock play in agriculture?",
+      "classical": {
+        "retrieval_time": 0.0056307315826416016,
+        "avg_similarity": 0.5520025752409208,
+        "diversity": 0.8,
+        "top_sources": [
+          "fao_livestock",
+          "fao_livestock",
+          "usda_livestock"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.0073316097259521484,
+        "avg_similarity": 0.7477091105613131,
+        "diversity": 1.0,
+        "top_sources": [
+          "usda_livestock",
+          "usda_conservation",
+          "usda_crops"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.6,
+        "speedup": 0.7680075444700986,
+        "score_improvement_pct": 35.453917082719485
+      }
+    },
+    {
+      "query": "How can precision agriculture improve farming efficiency?",
+      "classical": {
+        "retrieval_time": 0.005785465240478516,
+        "avg_similarity": 0.47504225492652913,
+        "diversity": 1.0,
+        "top_sources": [
+          "icrisat",
+          "worldbank_agriculture",
+          "eu_cap"
+        ]
+      },
+      "quantum": {
+        "retrieval_time": 0.00720977783203125,
+        "avg_similarity": 0.6676820480519068,
+        "diversity": 1.0,
+        "top_sources": [
+          "icrisat",
+          "worldbank_agriculture",
+          "cimmyt"
+        ]
+      },
+      "comparison": {
+        "overlap": 0.6,
+        "speedup": 0.8024470899470899,
+        "score_improvement_pct": 40.55213849453701
+      }
+    }
+  ],
+  "aggregates": {
+    "classical": {
+      "avg_retrieval_time": 0.007820940017700196,
+      "avg_similarity": 0.4661318013380952,
+      "avg_diversity": 0.8600000000000001
+    },
+    "quantum": {
+      "avg_retrieval_time": 0.008246874809265137,
+      "avg_similarity": 0.6774254459309728,
+      "avg_diversity": 0.8800000000000001
+    },
+    "comparison": {
+      "avg_overlap": 0.6399999999999999,
+      "avg_speedup": 0.9603182429484678,
+      "avg_score_improvement_pct": 46.97871291787953
+    }
+  }
+}

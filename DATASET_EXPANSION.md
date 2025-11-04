@@ -3,6 +3,7 @@
 ## 📊 Dataset Expansion
 
 The web crawler has been expanded from **38 sources** to **100+ sources** to provide:
+
 - More data points for complexity analysis
 - Clearer logarithmic vs linear pattern visualization
 - Better statistical significance in R² measurements
@@ -10,6 +11,7 @@ The web crawler has been expanded from **38 sources** to **100+ sources** to pro
 ## 🌍 New Data Sources Added
 
 ### FAO Expansion (5 new sources)
+
 - Family Farming
 - Food Security
 - Nutrition
@@ -17,6 +19,7 @@ The web crawler has been expanded from **38 sources** to **100+ sources** to pro
 - Rural Development
 
 ### USDA Expansion (6 new sources)
+
 - Biotechnology
 - Food & Nutrition
 - Trade
@@ -25,10 +28,12 @@ The web crawler has been expanded from **38 sources** to **100+ sources** to pro
 - Climate Solutions
 
 ### World Bank Expansion (2 new sources)
+
 - Climate-Smart Agriculture
 - Rural Development
 
 ### CGIAR Centers Expansion (8 new sources)
+
 - CIMMYT Wheat & Maize programs
 - IRRI Rice Knowledge
 - ICRISAT Dryland Cereals
@@ -38,11 +43,13 @@ The web crawler has been expanded from **38 sources** to **100+ sources** to pro
 - Bioversity International
 
 ### New Countries & Regions
+
 - **Canada**: Agriculture Canada, Crops, Livestock
 - **Brazil**: EMBRAPA
 - **China**: Ministry of Agriculture
 
 ### Specialized Topics (20+ new sources)
+
 - Soil Science Society
 - Global Soil Partnership
 - Water Management (IWMI)
@@ -59,10 +66,12 @@ The web crawler has been expanded from **38 sources** to **100+ sources** to pro
 ## 🎯 Complexity Analysis Improvements
 
 ### More Data Points
+
 - **Before**: 5 data points [5, 10, 20, 30, 50 files]
 - **After**: 12 data points [5, 10, 15, 20, 25, 30, 40, 50, 60, 75, 90, 110 files]
 
 ### Benefits
+
 1. **Statistical Robustness**: More points = better R² calculations
 2. **Clear Pattern**: Logarithmic curves need more points to show the "bend"
 3. **Crossover Detection**: Better identification of when quantum becomes superior
@@ -71,22 +80,26 @@ The web crawler has been expanded from **38 sources** to **100+ sources** to pro
 ## 🚀 How to Use
 
 ### 1. Collect Expanded Dataset
+
 ```bash
 chmod +x run_expanded_crawler.sh
 ./run_expanded_crawler.sh
 ```
 
 Or directly:
+
 ```bash
 python web_crawler.py
 ```
 
 ### 2. Run Complexity Analysis
+
 ```bash
 python advanced_rag_comparison.py
 ```
 
 This will:
+
 - Test 12 different dataset sizes
 - Fit O(1), O(log n), and O(n) curves
 - Calculate R² for each model
@@ -97,7 +110,8 @@ This will:
 
 With more data points, you should see:
 
-1. **Classical RAG**: 
+1. **Classical RAG**:
+
    - Time: O(1) or O(log n) - relatively flat
    - Quality: Minimal improvement with dataset size
 
@@ -111,6 +125,7 @@ With more data points, you should see:
 The key insight is **Quality Scaling**, not just speed:
 
 - **Classical embeddings**: Limited semantic representation
+
   - Quality improvement: ~5-15%
   - Scales linearly or not at all
 
@@ -120,6 +135,7 @@ The key insight is **Quality Scaling**, not just speed:
   - Captures complex relationships better with more data
 
 This proves quantum RAG is ideal for:
+
 - Large, diverse datasets
 - Complex semantic relationships
 - Long-term knowledge bases that grow over time
@@ -127,6 +143,7 @@ This proves quantum RAG is ideal for:
 ## 📊 Visualization Enhancements
 
 The expanded dataset enables:
+
 - Smoother complexity curve fits
 - More accurate R² calculations
 - Better crossover point detection
@@ -136,6 +153,7 @@ The expanded dataset enables:
 ## 🎓 Academic Value
 
 This expanded dataset makes the research:
+
 - **More rigorous**: Sufficient data points for statistical validity
 - **More convincing**: Clear visual patterns
 - **More reproducible**: Well-documented methodology
@@ -144,6 +162,7 @@ This expanded dataset makes the research:
 ## 💡 Next Steps
 
 After running the analysis, you can:
+
 1. Compare R² values between O(log n) and O(n) fits
 2. Identify exact crossover point
 3. Calculate quantum advantage as function of dataset size

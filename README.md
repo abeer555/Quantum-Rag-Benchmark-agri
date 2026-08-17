@@ -1,5 +1,7 @@
 # Quantum RAG Benchmark - Agriculture
 
+<img width="5964" height="3536" alt="image" src="https://github.com/user-attachments/assets/7093086d-efea-4396-8296-f2cbaf959230" />
+
 Comprehensive benchmark comparing Quantum-Enhanced RAG vs Classical RAG for agricultural information retrieval using real-world data from 50+ trusted sources.
 
 ## Project Structure
